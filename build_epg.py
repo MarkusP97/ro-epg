@@ -1,5 +1,5 @@
 # Erzeugt epg.xml: rumänischer Sendeplan (Quelle: epgshare01) mit Smart-IPTV-Kennungen.
-# Dizi bekommt eine eigene Kennung (DiziRO.epg), weil Smart IPTV für "Dizi.ro" keine Daten hat.
+# Dizi bekommt eine eigene Kennung (TimelessDizi.ro), weil Smart IPTV für "Dizi.ro" keine Daten hat.
 import datetime as dt
 import gzip
 import io
@@ -18,7 +18,7 @@ ID_MAP = {
     "Cinemax.2.HD.ro": "Cinemax2.ro", "Comedy.Central.ro": "ComedyCentral.ro", "Crime.+.Investigation.ro": "CrimeInvestigation.ro",
     "Digi.24.ro": "Digi24.ro", "Digi.Sport.1.HD.ro": "DigiSport1.ro", "Digi.Sport.2.HD.ro": "DigiSport2.ro",
     "Digi.Sport.3.HD.ro": "DigiSport3.ro", "Digi.Sport.4.HD.ro": "DigiSport4.ro", "Disney.Channel.ro": "DisneyChannel.ro",
-    "Disney.Junior.ro": "DisneyJunior.ro", "Diva.ro": "DivaUniversal.ro", "Dizi.ro": "DiziRO.epg", "DocuBox.HD.ro": "DocuBox.ro",
+    "Disney.Junior.ro": "DisneyJunior.ro", "Diva.ro": "DivaUniversal.ro", "Dizi.ro": "TimelessDizi.ro", "DocuBox.HD.ro": "DocuBox.ro",
     "Duck.TV.ro": "DuckTV.ro", "E!.Entertainment.ro": "E!.ro", "Epic.Drama.ro": "EpicDrama.ro", "Etno.TV.ro": "EtnoTV.ro",
     "Eurosport.1.HD.ro": "Eurosport1.ro", "Eurosport.2.ro": "Eurosport2.ro", "FILM.CAFE.HD.ro": "FilmCafe.ro",
     "Favorit.ro": "Favorit.ro", "Film.Mania.ro": "FilmMania.ro", "FilmBox.Extra.HD.ro": "FilmBoxExtra.ro",
@@ -56,7 +56,7 @@ def main():
     for src, dst in sorted(ID_MAP.items(), key=lambda x: x[1].lower()):
         if src in names:
             c = ET.SubElement(tv, "channel", {"id": dst})
-            ET.SubElement(c, "display-name").text = "Dizi" if dst == "DiziRO.epg" else names[src]
+            ET.SubElement(c, "display-name").text = "Dizi" if dst == "TimelessDizi.ro" else names[src]
 
     # Nur gestern bis +4 Tage, nur die nötigsten Felder: hält die Datei klein für alte Fernseher
     now = dt.datetime.now(dt.timezone.utc)
