@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv generator-info-name="ro-epg"><channel id="Acasa.ro"><display-name>Acasa</display-name></channel><channel id="AcasaGold.ro"><display-name>Acasa Gold HD</display-name></channel><channel id="AMC.ro"><display-name>AMC</display-name></channel><channel id="AutoMotorSport.ro"><display-name>auto motor und sport channel</display-name></channel><channel id="AXN.ro"><display-name>AXN</display-name></channel><channel id="AXNBlack.ro"><display-name>AXN Black</display-name></channel><channel id="AXNWhite.ro"><display-name>AXN White</display-name></channel><channel id="B1TV.ro"><display-name>B1 TV HD</display-name></channel><channel id="BBCEarth.ro"><display-name>BBC Earth HD</display-name></channel><channel id="Cartoonito.ro"><display-name>Cartoonito</display-name></channel><channel id="CartoonNetwork.ro"><display-name>Cartoon Network</display-name></channel><channel id="CineMAX.ro"><display-name>CineMAX</display-name></channel><channel id="Cinemax2.ro"><display-name>Cinemax 2 HD</display-name></channel><channel id="ComedyCentral.ro"><display-name>Comedy Central</display-name></channel><channel id="CrimeInvestigation.ro"><display-name>Crime + Investigation</display-name></channel><channel id="Digi24.ro"><display-name>Digi 24</display-name></channel><channel id="DigiSport1.ro"><display-name>Digi Sport 1 HD</display-name></channel><channel id="DigiSport2.ro"><display-name>Digi Sport 2 HD</display-name></channel><channel id="DigiSport3.ro"><display-name>Digi Sport 3 HD</display-name></channel><channel id="DigiSport4.ro"><display-name>Digi Sport 4 HD</display-name></channel><channel id="DisneyChannel.ro"><display-name>Disney Channel</display-name></channel><channel id="DisneyJunior.ro"><display-name>Disney Junior</display-name></channel><channel id="DivaUniversal.ro"><display-name>Diva</display-name></channel><channel id="DocuBox.ro"><display-name>DocuBox HD</display-name></channel><channel id="DuckTV.ro"><display-name>Duck TV</display-name></channel><channel id="E!.ro"><display-name>E! Entertainment</display-name></channel><channel id="EpicDrama.ro"><display-name>Epic Drama</display-name></channel><channel id="EtnoTV.ro"><display-name>Etno TV</display-name></channel><channel id="Eurosport1.ro"><display-name>Eurosport 1 HD</display-name></channel><channel id="Eurosport2.ro"><display-name>Eurosport 2</display-name></channel><channel id="Favorit.ro"><display-name>Favorit</display-name></channel><channel id="FilmBox.ro"><display-name>Filmbox</display-name></channel><channel id="FilmBoxExtra.ro"><display-name>FilmBox Extra HD</display-name></channel><channel id="FilmBoxFamily.ro"><display-name>FilmBox Family</display-name></channel><channel id="FilmboxPremium.ro"><display-name>Filmbox Premium</display-name></channel><channel id="FilmboxStars.ro"><display-name>Filmbox Stars</display-name></channel><channel id="FilmCafe.ro"><display-name>FILM CAFE HD</display-name></channel><channel id="FilmMania.ro"><display-name>Film Mania</display-name></channel><channel id="HBO.ro"><display-name>HBO</display-name></channel><channel id="HBO2.ro"><display-name>HBO 2</display-name></channel><channel id="HBO3.ro"><display-name>HBO 3</display-name></channel><channel id="HistoryChannel.ro"><display-name>History HD</display-name></channel><channel id="Jimjam.ro"><display-name>Jimjam</display-name></channel><channel id="KanalD.ro"><display-name>Kanal D HD</display-name></channel><channel id="KanalD2.ro"><display-name>Kanal D2 HD</display-name></channel><channel id="LoveNature.ro"><display-name>Love Nature</display-name></channel><channel id="Mezzo.ro"><display-name>Mezzo</display-name></channel><channel id="MiniMax.ro"><display-name>Minimax</display-name></channel><channel id="NatGeo.ro"><display-name>National Geographic</display-name></channel><channel id="NatGeoWild.ro"><display-name>National Geographic Wild</display-name></channel><channel id="NationalTV.ro"><display-name>National TV</display-name></channel><channel id="NickJr.ro"><display-name>Nick Jr</display-name></channel><channel id="NickToons.ro"><display-name>Nicktoons</display-name></channel><channel id="PrimaSport1.ro"><display-name>Prima Sport 1</display-name></channel><channel id="PrimaSport2.ro"><display-name>Prima Sport 2</display-name></channel><channel id="PrimaSport3.ro"><display-name>Prima Sport 3 HD</display-name></channel><channel id="PrimaSport4.ro"><display-name>Prima Sport 4 HD</display-name></channel><channel id="PROArena.ro"><display-name>Pro Arena HD</display-name></channel><channel id="PROCinema.ro"><display-name>Pro Cinema</display-name></channel><channel id="PROTV.ro"><display-name>PRO TV HD</display-name></channel><channel id="RealitateaPlus.ro"><display-name>Realitatea Plus</display-name></channel><channel id="SportExtra.ro"><display-name>Sport Extra</display-name></channel><channel id="TimelessDizi.ro"><display-name>Dizi</display-name></channel><channel id="TrinitasTV.ro"><display-name>Trinitas TV HD</display-name></channel><channel id="TVPaprika.ro"><display-name>TV Paprika</display-name></channel><channel id="TVR1.ro"><display-name>TVR 1</display-name></channel><channel id="TVR2.ro"><display-name>TVR 2 HD</display-name></channel><channel id="TVRSport.ro"><display-name>TVR Sport HD</display-name></channel><channel id="ViasatExplorer.ro"><display-name>Viasat Explore</display-name></channel><channel id="ViasatHistory.ro"><display-name>Viasat History</display-name></channel><channel id="ViasatNature.ro"><display-name>Viasat Nature HD</display-name></channel><channel id="WarnerTV.ro"><display-name>Warner TV HD</display-name></channel><programme start="20261002040000 +0000" stop="20261002055959 +0000" channel="PrimaSport3.ro"><title lang="ro">Tenis Atp: Tokyo/ Beijing Open</title>
-    <category lang="ro">Sport</category>
-  </programme><programme start="20261002060000 +0000" stop="20261002075959 +0000" channel="PrimaSport3.ro"><title lang="ro">Tenis Atp: Tokyo/ Beijing Open</title>
+<tv generator-info-name="ro-epg"><channel id="Acasa.ro"><display-name>Acasa</display-name></channel><channel id="AcasaGold.ro"><display-name>Acasa Gold HD</display-name></channel><channel id="AMC.ro"><display-name>AMC</display-name></channel><channel id="AutoMotorSport.ro"><display-name>auto motor und sport channel</display-name></channel><channel id="AXN.ro"><display-name>AXN</display-name></channel><channel id="AXNBlack.ro"><display-name>AXN Black</display-name></channel><channel id="AXNWhite.ro"><display-name>AXN White</display-name></channel><channel id="B1TV.ro"><display-name>B1 TV HD</display-name></channel><channel id="BBCEarth.ro"><display-name>BBC Earth HD</display-name></channel><channel id="Cartoonito.ro"><display-name>Cartoonito</display-name></channel><channel id="CartoonNetwork.ro"><display-name>Cartoon Network</display-name></channel><channel id="CineMAX.ro"><display-name>CineMAX</display-name></channel><channel id="Cinemax2.ro"><display-name>Cinemax 2 HD</display-name></channel><channel id="ComedyCentral.ro"><display-name>Comedy Central</display-name></channel><channel id="CrimeInvestigation.ro"><display-name>Crime + Investigation</display-name></channel><channel id="Digi24.ro"><display-name>Digi 24</display-name></channel><channel id="DigiSport1.ro"><display-name>Digi Sport 1 HD</display-name></channel><channel id="DigiSport2.ro"><display-name>Digi Sport 2 HD</display-name></channel><channel id="DigiSport3.ro"><display-name>Digi Sport 3 HD</display-name></channel><channel id="DigiSport4.ro"><display-name>Digi Sport 4 HD</display-name></channel><channel id="DisneyChannel.ro"><display-name>Disney Channel</display-name></channel><channel id="DisneyJunior.ro"><display-name>Disney Junior</display-name></channel><channel id="DivaUniversal.ro"><display-name>Diva</display-name></channel><channel id="DocuBox.ro"><display-name>DocuBox HD</display-name></channel><channel id="DuckTV.ro"><display-name>Duck TV</display-name></channel><channel id="E!.ro"><display-name>E! Entertainment</display-name></channel><channel id="EpicDrama.ro"><display-name>Epic Drama</display-name></channel><channel id="EtnoTV.ro"><display-name>Etno TV</display-name></channel><channel id="Eurosport1.ro"><display-name>Eurosport 1 HD</display-name></channel><channel id="Eurosport2.ro"><display-name>Eurosport 2</display-name></channel><channel id="Favorit.ro"><display-name>Favorit</display-name></channel><channel id="FilmBox.ro"><display-name>Filmbox</display-name></channel><channel id="FilmBoxExtra.ro"><display-name>FilmBox Extra HD</display-name></channel><channel id="FilmBoxFamily.ro"><display-name>FilmBox Family</display-name></channel><channel id="FilmboxPremium.ro"><display-name>Filmbox Premium</display-name></channel><channel id="FilmboxStars.ro"><display-name>Filmbox Stars</display-name></channel><channel id="FilmCafe.ro"><display-name>FILM CAFE HD</display-name></channel><channel id="FilmMania.ro"><display-name>Film Mania</display-name></channel><channel id="HBO.ro"><display-name>HBO</display-name></channel><channel id="HBO2.ro"><display-name>HBO 2</display-name></channel><channel id="HBO3.ro"><display-name>HBO 3</display-name></channel><channel id="HistoryChannel.ro"><display-name>History HD</display-name></channel><channel id="Jimjam.ro"><display-name>Jimjam</display-name></channel><channel id="KanalD.ro"><display-name>Kanal D HD</display-name></channel><channel id="KanalD2.ro"><display-name>Kanal D2 HD</display-name></channel><channel id="LoveNature.ro"><display-name>Love Nature</display-name></channel><channel id="Mezzo.ro"><display-name>Mezzo</display-name></channel><channel id="MiniMax.ro"><display-name>Minimax</display-name></channel><channel id="NatGeo.ro"><display-name>National Geographic</display-name></channel><channel id="NatGeoWild.ro"><display-name>National Geographic Wild</display-name></channel><channel id="NationalTV.ro"><display-name>National TV</display-name></channel><channel id="NickJr.ro"><display-name>Nick Jr</display-name></channel><channel id="NickToons.ro"><display-name>Nicktoons</display-name></channel><channel id="PrimaSport1.ro"><display-name>Prima Sport 1</display-name></channel><channel id="PrimaSport2.ro"><display-name>Prima Sport 2</display-name></channel><channel id="PrimaSport3.ro"><display-name>Prima Sport 3 HD</display-name></channel><channel id="PrimaSport4.ro"><display-name>Prima Sport 4 HD</display-name></channel><channel id="PROArena.ro"><display-name>Pro Arena HD</display-name></channel><channel id="PROCinema.ro"><display-name>Pro Cinema</display-name></channel><channel id="PROTV.ro"><display-name>PRO TV HD</display-name></channel><channel id="RealitateaPlus.ro"><display-name>Realitatea Plus</display-name></channel><channel id="SportExtra.ro"><display-name>Sport Extra</display-name></channel><channel id="TimelessDizi.ro"><display-name>Dizi</display-name></channel><channel id="TrinitasTV.ro"><display-name>Trinitas TV HD</display-name></channel><channel id="TVPaprika.ro"><display-name>TV Paprika</display-name></channel><channel id="TVR1.ro"><display-name>TVR 1</display-name></channel><channel id="TVR2.ro"><display-name>TVR 2 HD</display-name></channel><channel id="TVRSport.ro"><display-name>TVR Sport HD</display-name></channel><channel id="ViasatExplorer.ro"><display-name>Viasat Explore</display-name></channel><channel id="ViasatHistory.ro"><display-name>Viasat History</display-name></channel><channel id="ViasatNature.ro"><display-name>Viasat Nature HD</display-name></channel><channel id="WarnerTV.ro"><display-name>Warner TV HD</display-name></channel><programme start="20261002060000 +0000" stop="20261002075959 +0000" channel="PrimaSport3.ro"><title lang="ro">Tenis Atp: Tokyo/ Beijing Open</title>
     <category lang="ro">Sport</category>
   </programme><programme start="20261002080000 +0000" stop="20261002095959 +0000" channel="PrimaSport3.ro"><title lang="ro">Tenis Atp: Tokyo/ Beijing Open</title>
     <category lang="ro">Sport</category>
@@ -107,8 +105,6 @@
     <category lang="ro">Sport</category>
   </programme><programme start="20261005021500 +0000" stop="20261005035959 +0000" channel="PrimaSport3.ro"><title lang="ro">Poli Timisoara – Csm Tg Mures</title>
     <category lang="ro">Sport</category>
-  </programme><programme start="20261002030000 +0000" stop="20261002044459 +0000" channel="PrimaSport4.ro"><title lang="ro">Finala Mare + Festivitate</title>
-    <category lang="ro">Sport</category>
   </programme><programme start="20261002044500 +0000" stop="20261002081459 +0000" channel="PrimaSport4.ro"><title lang="ro">Echitatie</title>
     <category lang="ro">Sport</category>
   </programme><programme start="20261002081500 +0000" stop="20261002112959 +0000" channel="PrimaSport4.ro"><title lang="ro">Viteza In Coasta</title>
@@ -185,11 +181,6 @@
     <category lang="ro">Sport</category>
   </programme><programme start="20261005004500 +0000" stop="20261005035959 +0000" channel="PrimaSport4.ro"><title lang="ro">Golf Romanian Open Championship</title>
     <category lang="ro">Sport</category>
-  </programme><programme start="20261002043000 +0000" stop="20261002052959 +0000" channel="PROArena.ro"><title lang="ro">Pe urmele antichităților</title>
-    <desc lang="ro">Mike și Frank sunt colecționari care călătoresc prin țară și merg practic oriunde pentru șansa de a găsi comori antice. Cu ajutorul Danielei, se trezesc adesea în situații comice.</desc>
-    <category lang="ro">Diverse</category>
-    </programme><programme start="20261002053000 +0000" stop="20261002062959 +0000" channel="PROArena.ro"><title lang="ro">Faze tari şi minte multă</title>
-    <category lang="ro">Divertisment</category>
   </programme><programme start="20261002063000 +0000" stop="20261002072959 +0000" channel="PROArena.ro"><title lang="ro">Viper</title>
     <category lang="ro">Serial</category>
     </programme><programme start="20261002073000 +0000" stop="20261002082959 +0000" channel="PROArena.ro"><title lang="ro">Xena: prințesa războinică</title>
@@ -379,14 +370,7 @@
     <category lang="ro">Comedie</category>
     </programme><programme start="20261005030000 +0000" stop="20261005035959 +0000" channel="PROArena.ro"><title lang="ro">Colecția de la Count’s Kustoms</title>
     <category lang="ro">Diverse</category>
-  </programme><programme start="20261002033000 +0000" stop="20261002052959 +0000" channel="PROCinema.ro"><title lang="ro">În inima Texasului</title>
-    <title lang="xx">A Feeling of Home</title>
-    <desc lang="ro">Antreprenoarea Abby (Jonna Walsh) încearcă să ascundă faptul că e originară din Texas, dar planurile îi sunt date peste cap de revenirea acasă și revederea iubitului ei din liceu, Ryan (Nathan Parsons).</desc>
-    <category lang="ro">Film</category>
-    <category lang="ro">Romantic</category>
-    </programme><programme start="20261002053000 +0000" stop="20261002071459 +0000" channel="PROCinema.ro"><title lang="ro">Planul de logodnă</title>
-    <category lang="ro">Film</category>
-    </programme><programme start="20261002071500 +0000" stop="20261002092959 +0000" channel="PROCinema.ro"><title lang="ro">La bloc</title>
+  </programme><programme start="20261002071500 +0000" stop="20261002092959 +0000" channel="PROCinema.ro"><title lang="ro">La bloc</title>
     <desc lang="ro">De-a lungul celor 16 ani de căsnicie, Suzi şi Nelu adunaseră ceva bănuţi şi îşi doreau o viaţă nouă într-o locuinţă nouă. Aşa că, împreună cu fiica lor, aceştia se mută într-un nou apartament, recomandat de prietenul lui Nelu, Costel Jurcă.</desc>
     <category lang="ro">Serial</category>
     <category lang="ro">Comedie</category>
@@ -774,9 +758,7 @@
     </programme><programme start="20261005030000 +0000" stop="20261005035959 +0000" channel="PROTV.ro"><title lang="ro">Ştirile Pro Tv</title>
     <desc lang="ro">Știri de ultimă oră din țară și externe. Urmărește transmisiuni live, breaking news, reportaje și anchete.</desc>
     <category lang="ro">Ştiri</category>
-    </programme><programme start="20261002040000 +0000" stop="20261002065959 +0000" channel="RealitateaPlus.ro"><title lang="ro">Plus Matinal</title>
-    <category lang="ro">Ştiri</category>
-  </programme><programme start="20261002070000 +0000" stop="20261002085959 +0000" channel="RealitateaPlus.ro"><title lang="ro">Realitatea zilei</title>
+    </programme><programme start="20261002070000 +0000" stop="20261002085959 +0000" channel="RealitateaPlus.ro"><title lang="ro">Realitatea zilei</title>
     <category lang="ro">Talk show</category>
   </programme><programme start="20261002090000 +0000" stop="20261002105959 +0000" channel="RealitateaPlus.ro"><title lang="ro">Newsroom</title>
     <category lang="ro">Ştiri</category>
@@ -862,22 +844,6 @@
     <category lang="ro">Ştiri</category>
   </programme><programme start="20261005020000 +0000" stop="20261005035959 +0000" channel="RealitateaPlus.ro"><title lang="ro">România la apel</title>
     <category lang="ro">Talk show</category>
-  </programme><programme start="20261002030000 +0000" stop="20261002043459 +0000" channel="SportExtra.ro"><title lang="ro">Dtm 2026 - Race 1 - Oschersleben</title>
-    <category lang="ro">Sport</category>
-  </programme><programme start="20261002043500 +0000" stop="20261002044459 +0000" channel="SportExtra.ro"><title lang="ro">The News 140_1</title>
-    <category lang="ro">Sport</category>
-  </programme><programme start="20261002044500 +0000" stop="20261002050459 +0000" channel="SportExtra.ro"><title lang="ro">Fight News 293</title>
-    <category lang="ro">Sport</category>
-  </programme><programme start="20261002050500 +0000" stop="20261002052959 +0000" channel="SportExtra.ro"><title lang="ro">Fastzone 2026 - Episodul 19</title>
-    <category lang="ro">Sport</category>
-  </programme><programme start="20261002053000 +0000" stop="20261002054459 +0000" channel="SportExtra.ro"><title lang="ro">The News 140_1</title>
-    <category lang="ro">Sport</category>
-  </programme><programme start="20261002054500 +0000" stop="20261002055959 +0000" channel="SportExtra.ro"><title lang="ro">Fight News 293</title>
-    <category lang="ro">Sport</category>
-  </programme><programme start="20261002060000 +0000" stop="20261002064959 +0000" channel="SportExtra.ro"><title lang="ro">Gt World Challenge 2025 - Episodul 2</title>
-    <category lang="ro">Sport</category>
-  </programme><programme start="20261002065000 +0000" stop="20261002071459 +0000" channel="SportExtra.ro"><title lang="ro">The News 140_1</title>
-    <category lang="ro">Sport</category>
   </programme><programme start="20261002071500 +0000" stop="20261002072959 +0000" channel="SportExtra.ro"><title lang="ro">Fight News 293</title>
     <category lang="ro">Sport</category>
   </programme><programme start="20261002073000 +0000" stop="20261002075959 +0000" channel="SportExtra.ro"><title lang="ro">Gp Confidential 2026 - Episodul 15</title>
@@ -1050,14 +1016,6 @@
     <category lang="ro">Sport</category>
   </programme><programme start="20261005033000 +0000" stop="20261005035959 +0000" channel="SportExtra.ro"><title lang="ro">Highlights Etrc 2026_Misano</title>
     <category lang="ro">Sport</category>
-  </programme><programme start="20261002033000 +0000" stop="20261002043459 +0000" channel="TrinitasTV.ro"><title lang="ro">Slujba acatistului</title>
-    <category lang="ro">Diverse</category>
-  </programme><programme start="20261002043500 +0000" stop="20261002045959 +0000" channel="TrinitasTV.ro"><title lang="ro">Talent și efort</title>
-    <category lang="ro">Diverse</category>
-  </programme><programme start="20261002050000 +0000" stop="20261002054459 +0000" channel="TrinitasTV.ro"><title lang="ro">Jurnalul Trinitas</title>
-    <category lang="ro">Diverse</category>
-  </programme><programme start="20261002054500 +0000" stop="20261002055959 +0000" channel="TrinitasTV.ro"><title lang="ro">Meteo</title>
-    <category lang="ro">Meteo</category>
   </programme><programme start="20261002060000 +0000" stop="20261002072959 +0000" channel="TrinitasTV.ro"><title lang="ro">Sfânta Liturghie</title>
     <desc lang="ro">LIVE din Catedrala Patriarhală.</desc>
     <category lang="ro">Diverse</category>
@@ -1329,15 +1287,6 @@
     <category lang="ro">Diverse</category>
   </programme><programme start="20261005033000 +0000" stop="20261005043459 +0000" channel="TrinitasTV.ro"><title lang="ro">Slujba acatistului</title>
     <category lang="ro">Diverse</category>
-  </programme><programme start="20261002035500 +0000" stop="20261002045459 +0000" channel="TVPaprika.ro"><title lang="ro">Prue Leith: Bucătăria mea din Cotswold</title>
-    <desc lang="ro">Prue găteşte mai multe preparate ideale pentru musafiri, înainte să i se alăture Alison Hammond pentru a pregăti un desert. Încercând să arate cât este de polivalent pepenele, Prue face două preparate cu el. Pentru a face preparate simple şi delicioase pentru petreceri, Prue foloseşte un ingredient cumpărat. John, soţul lui Prue, merge la o fermă ca să vadă cum sunt dresaţi câinii care păzesc oile. Şi prietenii lor ne spun cum afumă somonul folosind metode clasice.</desc>
-    <category lang="ro">Culinar</category>
-  </programme><programme start="20261002045500 +0000" stop="20261002055459 +0000" channel="TVPaprika.ro"><title lang="ro">Un barbecue suprem cu Jamie</title>
-    <desc lang="ro">Jamie se apucă de minunățiile sale afumate cu lemne: gătește mușchiul de vită în trei feluri, ne arată cum putem prăji pe grătar un pui și un pește întreg fără stres și prepară acadele delicioase de miel.</desc>
-    <category lang="ro">Culinar</category>
-  </programme><programme start="20261002055500 +0000" stop="20261002064959 +0000" channel="TVPaprika.ro"><title lang="ro">Plăcinte şi budinci</title>
-    <desc lang="ro">În fiecare episod al acestui serial, Paul Hollywood prepară trei feluri de mâncare, în timp ce vizitează Marea Britanie în căutarea unor rețete tradiționale locale și a poveștilor care le-au inspirat.</desc>
-    <category lang="ro">Culinar</category>
   </programme><programme start="20261002065000 +0000" stop="20261002080459 +0000" channel="TVPaprika.ro"><title lang="ro">Campionatul deserturilor</title>
     <desc lang="ro">În emisiunea distractivă și captivantă, ne propunem să-l găsim pe cel mai bun cofetar amator din Marea Britanie. Membrii juriului, printre care Mary Berry și maestrul cofetar Paul Hollywood, dau celor 12 cofetari entuziaști teme prin care aceștia își pot etala diferite abilități, iar telespectatorii vor putea cunoaște știința artei cofetarilor plină de provocări. Concurenții depun toate eforturile ca să facă față celor mai înspăimântătoare provocări, ca să captiveze juriul, în timp ce se luptă pentru a ajunge în finală și pentru a câștiga titlul de maestru cofetar.</desc>
     <category lang="ro">Culinar</category>
@@ -1632,11 +1581,6 @@
   </programme><programme start="20261005035500 +0000" stop="20261005045459 +0000" channel="TVPaprika.ro"><title lang="ro">Prue Leith: Bucătăria mea din Cotswold</title>
     <desc lang="ro">Prue găteşte mai multe preparate ideale pentru musafiri, înainte să i se alăture Alison Hammond pentru a pregăti un desert. Încercând să arate cât este de polivalent pepenele, Prue face două preparate cu el. Pentru a face preparate simple şi delicioase pentru petreceri, Prue foloseşte un ingredient cumpărat. John, soţul lui Prue, merge la o fermă ca să vadă cum sunt dresaţi câinii care păzesc oile. Şi prietenii lor ne spun cum afumă somonul folosind metode clasice.</desc>
     <category lang="ro">Culinar</category>
-  </programme><programme start="20261002040000 +0000" stop="20261002045959 +0000" channel="TVR1.ro"><title lang="ro">Telejurnal matinal</title>
-    <desc lang="ro">Pe TVR1, la Telejurnalul matinal, primele cinci zile ale săptămânii încep în forţă, printr-un program cu subiecte ample şi ştiri hard, alternate cu informatii utilitare şi rubrici atipice pentru un buletin de ştiri.</desc>
-    <category lang="ro">Ştiri</category>
-    </programme><programme start="20261002050000 +0000" stop="20261002071459 +0000" channel="TVR1.ro"><title lang="ro">Festivalul Internaţional de Folclor Cântecele munţilor</title>
-    <category lang="ro">Muzică</category>
   </programme><programme start="20261002071500 +0000" stop="20261002072959 +0000" channel="TVR1.ro"><title lang="ro">Un zâmbet 16:9</title>
     <category lang="ro">Diverse</category>
   </programme><programme start="20261002073000 +0000" stop="20261002082959 +0000" channel="TVR1.ro"><title lang="ro">Dezacorduri de pace</title>
@@ -1865,15 +1809,6 @@
     <category lang="ro">Diverse</category>
     </programme><programme start="20261005035500 +0000" stop="20261005035959 +0000" channel="TVR1.ro"><title lang="ro">Imnul  României</title>
     <category lang="ro">Muzică</category>
-    </programme><programme start="20261002043000 +0000" stop="20261002045959 +0000" channel="TVR2.ro"><title lang="ro">Levintza prezintă</title>
-    <desc lang="ro">Va propunem o incursiune în lumea eleganței și a modei, semnata Doina Levintza. Noile tendințe în fashion, ce propuneri au creatorii internaționali pentru anul 2019, care sunt piesele vestimentare ce nu trebuie să lipsească dintr-o garderobă, iată doar câteva dintre subiectele pe care le vom descoperi în această emisiune.</desc>
-    <category lang="ro">Divertisment</category>
-  </programme><programme start="20261002050000 +0000" stop="20261002055959 +0000" channel="TVR2.ro"><title lang="ro">Documentar 360° Geo</title>
-    <desc lang="ro">Seria Documentarelor 360° GEO situată la graniţa dintre documentar şi reportaj abordează  subiecte fascinante despre lumea care ne înconjoară.</desc>
-    <category lang="ro">Documentar</category>
-    </programme><programme start="20261002060000 +0000" stop="20261002062959 +0000" channel="TVR2.ro"><title lang="ro">AI idee?!</title>
-    <desc lang="ro">Noul proiect educaţional pe care îl propune TVR 2 înseamnă: emisiuni dedicate informării si educării copiilor, adolescentilor si părintilor privind protectia minorilor şi prevenirea situatiilor de risc, ediţii dedicate inteligentei artificial, cu rol important în informarea si educarea publicului, subiecte dedicate eco-spaţiului şi tehnologiilor verzi, emisiuni de orientare profesională, precum şi teme de actualitate în zona de educaţie.\r\nModerator: Corina Dobre \r\nRealizatori: Mihaela Iamandei, Sînziana Miloşoiu\r\nProducator : Sinziana Milosoiu\r\n\r\n \r\n  (Reluare).</desc>
-    <category lang="ro">Diverse</category>
     </programme><programme start="20261002063000 +0000" stop="20261002075959 +0000" channel="TVR2.ro"><title lang="ro">Tonomatul de pe 2</title>
     <desc lang="ro">Producator :Aimee D’Albon\r\nRedactor :\r\n\r\n\r\n  (Reluare).</desc>
     <category lang="ro">Diverse</category>
@@ -2144,20 +2079,7 @@
     <category lang="ro">Diverse</category>
   </programme><programme start="20261005035500 +0000" stop="20261005035959 +0000" channel="TVR2.ro"><title lang="ro">Imnul  României</title>
     <category lang="ro">Muzică</category>
-    </programme><programme start="20261002040000 +0000" stop="20261002052959 +0000" channel="TVRSport.ro"><title lang="ro">Handbal feminin</title>
-    <desc lang="ro">LIGA FLORILOR  ETAPA 4.</desc>
-    <category lang="ro">Sport</category>
-  </programme><programme start="20261002053000 +0000" stop="20261002055959 +0000" channel="TVRSport.ro"><title lang="ro">GENERATIA FIT Premiera</title>
-    <desc lang="ro">GENERATIA FIT Premiera\r\nS12, ep 11.</desc>
-    <category lang="ro">Sport</category>
-  </programme><programme start="20261002060000 +0000" stop="20261002060959 +0000" channel="TVRSport.ro"><title lang="ro">SPORT EXPRES</title>
-    <category lang="ro">Sport</category>
-  </programme><programme start="20261002061000 +0000" stop="20261002065959 +0000" channel="TVRSport.ro"><title lang="ro">Ora de sport</title>
-    <desc lang="ro">Partea I\r\nPartea I\r\n STUDIOUL 12\r\nPrezinta: Cosmin Băleanu, Marian Olaianos\r\nTransmisiune directa.</desc>
-    <category lang="ro">Sport</category>
-  </programme><programme start="20261002070000 +0000" stop="20261002070959 +0000" channel="TVRSport.ro"><title lang="ro">SPORT EXPRES</title>
-    <category lang="ro">Sport</category>
-  </programme><programme start="20261002071000 +0000" stop="20261002075959 +0000" channel="TVRSport.ro"><title lang="ro">Ora de sport</title>
+    </programme><programme start="20261002071000 +0000" stop="20261002075959 +0000" channel="TVRSport.ro"><title lang="ro">Ora de sport</title>
     <desc lang="ro">Partea a II-a\r\nPartea a II-a\r\n STUDIOUL 12\r\nPrezinta: Cosmin Băleanu, Marian Olaianos\r\nTransmisiune directa.</desc>
     <category lang="ro">Sport</category>
   </programme><programme start="20261002080000 +0000" stop="20261002080959 +0000" channel="TVRSport.ro"><title lang="ro">SPORT EXPRES</title>
@@ -2375,16 +2297,7 @@
   </programme><programme start="20261005030000 +0000" stop="20261005035959 +0000" channel="TVRSport.ro"><title lang="ro">CAMPION LA MICROFON</title>
     <desc lang="ro">(Reluare).</desc>
     <category lang="ro">Sport</category>
-  </programme><programme start="20261002040000 +0000" stop="20261002043959 +0000" channel="ViasatExplorer.ro"><title lang="ro">Australia: Capturi în sălbăticie</title>
-    <category lang="ro">Documentar</category>
-    <episode-num system="onscreen">S2 E5</episode-num>
-    </programme><programme start="20261002044000 +0000" stop="20261002053459 +0000" channel="ViasatExplorer.ro"><title lang="ro">Ultimii căpitani</title>
-    <category lang="ro">Documentar</category>
-    <episode-num system="onscreen">S1 E8</episode-num>
-    </programme><programme start="20261002053500 +0000" stop="20261002063459 +0000" channel="ViasatExplorer.ro"><title lang="ro">Greșeli inginerești grave</title>
-    <category lang="ro">Documentar</category>
-    <episode-num system="onscreen">S5 E4</episode-num>
-    </programme><programme start="20261002063500 +0000" stop="20261002072959 +0000" channel="ViasatExplorer.ro"><title lang="ro">Eroii din port: Noi locații</title>
+  </programme><programme start="20261002063500 +0000" stop="20261002072959 +0000" channel="ViasatExplorer.ro"><title lang="ro">Eroii din port: Noi locații</title>
     <category lang="ro">Documentar</category>
     <episode-num system="onscreen">S1 E8</episode-num>
     </programme><programme start="20261002073000 +0000" stop="20261002082959 +0000" channel="ViasatExplorer.ro"><title lang="ro">Căutătorii de aur din Australia</title>
@@ -2600,12 +2513,6 @@
     </programme><programme start="20261005025500 +0000" stop="20261005035959 +0000" channel="ViasatExplorer.ro"><title lang="ro">Vikingii ghețurilor</title>
     <category lang="ro">Documentar</category>
     <episode-num system="onscreen">S2 E4</episode-num>
-    </programme><programme start="20261002041000 +0000" stop="20261002051959 +0000" channel="ViasatHistory.ro"><title lang="ro">Cleopatra: Decodificarea enigmei</title>
-    <category lang="ro">Documentar</category>
-    <episode-num system="onscreen">S1 E4</episode-num>
-    </programme><programme start="20261002052000 +0000" stop="20261002062959 +0000" channel="ViasatHistory.ro"><title lang="ro">Pe linia frontului</title>
-    <category lang="ro">Documentar</category>
-    <episode-num system="onscreen">S1 E5</episode-num>
     </programme><programme start="20261002063000 +0000" stop="20261002073459 +0000" channel="ViasatHistory.ro"><title lang="ro">Construcții de demult</title>
     <category lang="ro">Documentar</category>
     <episode-num system="onscreen">S4 E3</episode-num>
@@ -2813,15 +2720,6 @@
     </programme><programme start="20261005023500 +0000" stop="20261005035959 +0000" channel="ViasatHistory.ro"><title lang="ro">Top 10: Tehnologii de război</title>
     <category lang="ro">Documentar</category>
     <episode-num system="onscreen">S1 E5</episode-num>
-    </programme><programme start="20261002043000 +0000" stop="20261002050459 +0000" channel="ViasatNature.ro"><title lang="ro">Salvatorii aligatorilor din Texas</title>
-    <category lang="ro">Documentar</category>
-    <episode-num system="onscreen">S1 E8</episode-num>
-    </programme><programme start="20261002050500 +0000" stop="20261002055459 +0000" channel="ViasatNature.ro"><title lang="ro">Prădători</title>
-    <category lang="ro">Diverse</category>
-    <episode-num system="onscreen">E8</episode-num>
-  </programme><programme start="20261002055500 +0000" stop="20261002065959 +0000" channel="ViasatNature.ro"><title lang="ro">Monştrii apelor</title>
-    <category lang="ro">Documentar</category>
-    <episode-num system="onscreen">S7 E1</episode-num>
     </programme><programme start="20261002070000 +0000" stop="20261002075959 +0000" channel="ViasatNature.ro"><title lang="ro">Viața sub zero grade</title>
     <category lang="ro">Documentar</category>
     <episode-num system="onscreen">S5 E7</episode-num>
@@ -3017,32 +2915,6 @@
   </programme><programme start="20261005025500 +0000" stop="20261005035959 +0000" channel="ViasatNature.ro"><title lang="ro">Salvatorii aligatorilor din Texas</title>
     <category lang="ro">Documentar</category>
     <episode-num system="onscreen">S1 E8</episode-num>
-    </programme><programme start="20261002041000 +0000" stop="20261002050459 +0000" channel="WarnerTV.ro"><title lang="ro">Cu sânge rece</title>
-    <title lang="xx">Cold Case</title>
-    <desc lang="ro">Lilly intervievează câțiva martori: Melanie, cea mai bună prietena a lui Jill, pe prietenul acesteia, Todd Whitley, și pe fratele său Eric. Toate probele par a fi împotriva lui Eric, care acum are mari probleme cu acoolul.</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Crimă</category>
-    <category lang="ro">Dramă</category>
-    <category lang="ro">Mister</category>
-    <category lang="ro">Thriller</category>
-    </programme><programme start="20261002050500 +0000" stop="20261002055959 +0000" channel="WarnerTV.ro"><title lang="ro">Delicte majore</title>
-    <title lang="xx">Major Crimes</title>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Crimă</category>
-    <category lang="ro">Dramă</category>
-    <category lang="ro">Mister</category>
-    </programme><programme start="20261002060000 +0000" stop="20261002065459 +0000" channel="WarnerTV.ro"><title lang="ro">Cu sânge rece</title>
-    <title lang="xx">Cold Case</title>
-    <desc lang="ro">Lilly intervievează câțiva martori: Melanie, cea mai bună prietena a lui Jill, pe prietenul acesteia, Todd Whitley, și pe fratele său Eric. Toate probele par a fi împotriva lui Eric, care acum are mari probleme cu acoolul.</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Crimă</category>
-    <category lang="ro">Dramă</category>
-    <category lang="ro">Mister</category>
-    <category lang="ro">Thriller</category>
-    </programme><programme start="20261002065500 +0000" stop="20261002071959 +0000" channel="WarnerTV.ro"><title lang="ro">2 Broke Girls</title>
-    <desc lang="ro">2 Broke Girls’ se prezinta ca un sitcom clasic american. Max (Kat Dennings), o tanara chelnerita o intalneste pe noua colega Caroline, o fosta ‘elite upper east side girl’ falita, al carei tata a ajuns dupa gratii din cauza unei inselatorii.</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Comedie</category>
     </programme><programme start="20261002072000 +0000" stop="20261002074959 +0000" channel="WarnerTV.ro"><title lang="ro">2 Broke Girls</title>
     <desc lang="ro">2 Broke Girls’ se prezinta ca un sitcom clasic american. Max (Kat Dennings), o tanara chelnerita o intalneste pe noua colega Caroline, o fosta ‘elite upper east side girl’ falita, al carei tata a ajuns dupa gratii din cauza unei inselatorii.</desc>
     <category lang="ro">Serial</category>
@@ -3348,15 +3220,6 @@
     <category lang="ro">Aventuri</category>
     <category lang="ro">Dramă</category>
     <category lang="ro">SF</category>
-    </programme><programme start="20261002040000 +0000" stop="20261002045959 +0000" channel="Acasa.ro"><title lang="ro">Inimi sfărâmate</title>
-    <category lang="ro">Serial</category>
-    </programme><programme start="20261002050000 +0000" stop="20261002055959 +0000" channel="Acasa.ro"><title lang="ro">Condamnați la iubire</title>
-    <category lang="ro">Serial</category>
-    </programme><programme start="20261002060000 +0000" stop="20261002065959 +0000" channel="Acasa.ro"><title lang="ro">La marginea lumii</title>
-    <title lang="xx">Uzak Sehir</title>
-    <desc lang="ro">Serialul explorează limitele supraviețuirii și forța unei femei care refuză să fie victima circumstanțelor.</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Dramă</category>
     </programme><programme start="20261002070000 +0000" stop="20261002075959 +0000" channel="Acasa.ro"><title lang="ro">Fata din vis</title>
     <category lang="ro">Serial</category>
     </programme><programme start="20261002080000 +0000" stop="20261002085959 +0000" channel="Acasa.ro"><title lang="ro">Ştirile Acasă Actualităţi</title>
@@ -3501,9 +3364,6 @@
     <category lang="ro">Diverse</category>
     </programme><programme start="20261005030000 +0000" stop="20261005035959 +0000" channel="Acasa.ro"><title lang="ro">Inimi sfărâmate</title>
     <category lang="ro">Serial</category>
-    </programme><programme start="20261002040000 +0000" stop="20261002065959 +0000" channel="AcasaGold.ro"><title lang="ro">Vorbeşte lumea</title>
-    <desc lang="ro">Emisiunea abordează într-un ton vesel și optimist subiecte precum modă, frumusețe, sănătate, cooking sau parenting. Fiecare emisiune aduce în platou invitați din lumea mondenă, vedete și celebrități, artiști, dar și personalități publice și din sfera medicală sau culturală.</desc>
-    <category lang="ro">Divertisment</category>
     </programme><programme start="20261002070000 +0000" stop="20261002082959 +0000" channel="AcasaGold.ro"><title lang="ro">Lacrimi de iubire</title>
     <desc lang="ro">Familia Varlam se numara printre cele mai bogate familii din Romania, mai ales ca Grigore Varlam (Bebe Cotimanis), capul familiei, este un om de afaceri care a creat un adevarat imperiu. \r\rEl este recasatorit cu Simona (Carmen Tanase), care si-a implinit astfel visul de a trai in confort, intr-o vila luxoasa. Mihai (Lucian Viziru), fiul Simonei din prima casatorie este un baiat timid, cu principii solide, care tocmai se intoarce de la o specializare in strainatate. Caracterul lui linisti.</desc>
     <category lang="ro">Serial</category>
@@ -3743,17 +3603,6 @@
     <category lang="ro">Serial</category>
     <category lang="ro">Dramă</category>
     <category lang="ro">Romantic</category>
-    </programme><programme start="20261002032000 +0000" stop="20261002051459 +0000" channel="AMC.ro"><title lang="ro">The Broken Land</title>
-    <title lang="xx">Las Rojas</title>
-    <desc lang="ro">Într-o tabără izolată din munți, Charlotte, paleontolog renumită, apără cea mai importantă descoperire a carierei ei, rămășițele unui hipogrif, un animal fabulos, jumătate cal, jumătate vultur.</desc>
-    <category lang="ro">Film</category>
-    <category lang="ro">Dramă</category>
-    </programme><programme start="20261002051500 +0000" stop="20261002065459 +0000" channel="AMC.ro"><title lang="ro">Cowboy din tata-n fiu</title>
-    <title lang="xx">The Last Cowboy</title>
-    <desc lang="ro">Charlie Bankston a fost un fermier si un cowboy care si-a trait viata din plin, lasand o mostenire extraordinara celor care l-au cunoscut. Insa o data cu disparitia sa, viitorul fermei in care si-a pus tot sufletul, Dry Creek, devine nesigur.</desc>
-    <category lang="ro">Film</category>
-    <category lang="ro">Dramă</category>
-    <category lang="ro">Western</category>
     </programme><programme start="20261002065500 +0000" stop="20261002084459 +0000" channel="AMC.ro"><title lang="ro">Insula misterioasă</title>
     <title lang="xx">Mysterious Island</title>
     <desc lang="ro">Cinci barbati evadeaza dintr-o inchisoare confederata la bordul unui balon, pentru a ateriza apoi pe o insula necunoscuta din Pacific. Pe insula, cei cinci intalnesc monstri carnivori, pirati sangerosi si un geniu nebun, capitanul Nemo.</desc>
@@ -3999,26 +3848,6 @@
     <category lang="ro">Serial</category>
     <category lang="ro">Biografic</category>
     <episode-num system="onscreen">E17</episode-num>
-    </programme><programme start="20261002042500 +0000" stop="20261002045459 +0000" channel="AutoMotorSport.ro"><title lang="ro">1886 - Legenden der Autokultur</title>
-    <desc lang="ro">In faszinierenden Museen setzen Automobilbauer ihren Legenden ein Denkmal - wir werfen einen Blick auf die Highlights der Automobilentwicklung und ihre Aufsehen erregenden Erfolgsgeschichten.</desc>
-    <category lang="ro">Auto</category>
-  </programme><programme start="20261002045500 +0000" stop="20261002050959 +0000" channel="AutoMotorSport.ro"><title lang="ro">Die Tester KLASSIK</title>
-    <desc lang="ro">Die Begriffe "modern" und "veraltet" liegen in der Autowelt so nah beieinander wie in kaum einer anderen Industrie. "Die Tester Klassik" beleuchtet die Modellgenerationen, die zwar nicht mehr taufrisch sind, aber die zu ihrer Zeit noch das Maß der Dinge waren.</desc>
-    <category lang="ro">Auto</category>
-  </programme><programme start="20261002051000 +0000" stop="20261002053959 +0000" channel="AutoMotorSport.ro"><title lang="ro">Ein Rennprofi auf Abwegen</title>
-    <category lang="ro">Auto</category>
-  </programme><programme start="20261002054000 +0000" stop="20261002060959 +0000" channel="AutoMotorSport.ro"><title lang="ro">NASCAR - Vollgas im Oval</title>
-    <desc lang="ro">Dröhnender V8-Sound, packende Stoßstangenduelle, spektakuläre Unfälle: die NASCAR Whelen Euro Series transportiert US-Motorsportgefühl nach Europa. Genauer gesagt: nach Venray in den Niederlanden. Das Ovalrennen zählt zu den beliebtesten Events des Jahres. Bei der Hatz in der Arena müssen sich die Fahrer auf ganz besondere Herausforderungen einstellen.Dröhnender V8-Sound, packende Stoßstangenduelle, spektakuläre Unfälle: die NASCAR Whelen Euro Series transportiert US-Motorsportgefühl nach Europa. Genauer gesagt: nach Venray in den Niederlanden. Das Ovalrennen zählt zu den beliebtesten Events des Jahres. Bei der Hatz in der Arena müssen sich die Fahrer auf ganz besondere Herausforderungen einstellen.</desc>
-    <category lang="ro">Auto</category>
-  </programme><programme start="20261002061000 +0000" stop="20261002062959 +0000" channel="AutoMotorSport.ro"><title lang="ro">Die Tester</title>
-    <desc lang="ro">Die auto motor und sport-Redakteure testen neue Modelle auf Herz und Nieren: Beschleunigen und Bremsen, Slalom und Alltagstauglichkeit - "Die Tester" entdecken jede Stärke und Schwäche.</desc>
-    <category lang="ro">Auto</category>
-    </programme><programme start="20261002063000 +0000" stop="20261002064959 +0000" channel="AutoMotorSport.ro"><title lang="ro">Die Tester</title>
-    <desc lang="ro">Die auto motor und sport-Redakteure testen neue Modelle auf Herz und Nieren: Beschleunigen und Bremsen, Slalom und Alltagstauglichkeit - "Die Tester" entdecken jede Stärke und Schwäche.</desc>
-    <category lang="ro">Auto</category>
-    </programme><programme start="20261002065000 +0000" stop="20261002065459 +0000" channel="AutoMotorSport.ro"><title lang="ro">Der Einzeltest</title>
-    <desc lang="ro">Die auto motor und sport-Redakteure testen neue Modelle auf Herz und Nieren: Beschleunigen und Bremsen, Slalom und Alltagstauglichkeit - "Die Tester" entdecken jede Stärke und Schwäche.</desc>
-    <category lang="ro">Auto</category>
     </programme><programme start="20261002065500 +0000" stop="20261002072459 +0000" channel="AutoMotorSport.ro"><title lang="ro">Beziehungskisten</title>
     <desc lang="ro">Autos sind so verschieden wie die Leute, die sie besitzen. Beziehungskisten ist unterwegs in den verschiedenen Auto-Szenen mit echten petrolheads, deren Leidenschaft aus vier Rädern und einem Lenkrad besteht.</desc>
     <category lang="ro">Auto</category>
@@ -4578,34 +4407,7 @@
   </programme><programme start="20261005035500 +0000" stop="20261005035959 +0000" channel="AutoMotorSport.ro"><title lang="ro">Garage 21</title>
     <desc lang="ro">Garage 21: aktuell, informativ und unterhaltsam - vom Kleinwagen über Elektroautos bis hin zum Supersportler. Das Automagazin testet gründlich, stellt leidenschaftliche Sammler vor und hat einen echten Rennprofi am Steuer. Wer vier Räder liebt, der schaltet ein.</desc>
     <category lang="ro">Auto</category>
-  </programme><programme start="20261002035959 +0000" stop="20261002043459 +0000" channel="AXN.ro"><title lang="ro">Închiderea programului</title>
-    <category lang="ro">Închiderea Programului</category>
-  </programme><programme start="20261002043500 +0000" stop="20261002052459 +0000" channel="AXN.ro"><title lang="ro">S.W.A.T.</title>
-    <desc lang="ro">Shemar Moore este un sergent S.W.A.T însărcinat să conducă o unitate tactică specializată, care este ultima redută în aplicarea legii în Los Angeles. Membrii echipei S.W.A.T își riscă viața zilnic, pentru a proteja comunitatea și pentru a salva vieți.</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Aventuri</category>
-    <category lang="ro">Crimă</category>
-    <category lang="ro">Dramă</category>
-    <category lang="ro">Thriller</category>
-    <episode-num system="onscreen">S2 E17</episode-num>
-    </programme><programme start="20261002052500 +0000" stop="20261002061959 +0000" channel="AXN.ro"><title lang="ro">S.W.A.T.</title>
-    <desc lang="ro">Shemar Moore este un sergent S.W.A.T însărcinat să conducă o unitate tactică specializată, care este ultima redută în aplicarea legii în Los Angeles. Membrii echipei S.W.A.T își riscă viața zilnic, pentru a proteja comunitatea și pentru a salva vieți.</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Aventuri</category>
-    <category lang="ro">Crimă</category>
-    <category lang="ro">Dramă</category>
-    <category lang="ro">Thriller</category>
-    <episode-num system="onscreen">S2 E18</episode-num>
-    </programme><programme start="20261002062000 +0000" stop="20261002071459 +0000" channel="AXN.ro"><title lang="ro">Recrutul</title>
-    <title lang="xx">The Rookie</title>
-    <desc lang="ro">Nu e uşor să o iei de la capăt, mai ales pentru un tip dintr-un oraş mic precum John Nolan (Nathan Fillion) care, după un incident care i-a schimbat viaţa, îşi urmează visul de a deveni poliţist în Los Angeles.</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Crimă</category>
-    <category lang="ro">Dramă</category>
-    <episode-num system="onscreen">S5 E13</episode-num>
-    </programme><programme start="20261002071500 +0000" stop="20261002080459 +0000" channel="AXN.ro"><title lang="ro">Recrutul: Agent special</title>
+  </programme><programme start="20261002071500 +0000" stop="20261002080459 +0000" channel="AXN.ro"><title lang="ro">Recrutul: Agent special</title>
     <title lang="xx">The Rookie: Feds</title>
     <desc lang="ro">Agentul special Simone Clark, cea mai veche novice de la Academia FBI, este desemnată să sprijine biroul din Los Angeles.</desc>
     <category lang="ro">Serial</category>
@@ -5112,37 +4914,7 @@
     <episode-num system="onscreen">S3 E5</episode-num>
     </programme><programme start="20261005035959 +0000" stop="20261005042959 +0000" channel="AXN.ro"><title lang="ro">Închiderea programului</title>
     <category lang="ro">Închiderea Programului</category>
-  </programme><programme start="20261002040000 +0000" stop="20261002044459 +0000" channel="AXNBlack.ro"><title lang="ro">O lume dispărută</title>
-    <title lang="xx">The Lost World</title>
-    <desc lang="ro">La sfârșitul secolului al XX-lea, un grup de profesori visători și aventurieri pleacă în căutarea unei lumi izolate, care se află departe de ochii profanilor, doar pentru cei care cred în existența ei.</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Aventuri</category>
-    <category lang="ro">SF</category>
-    <episode-num system="onscreen">S2 E8</episode-num>
-    </programme><programme start="20261002044500 +0000" stop="20261002052959 +0000" channel="AXNBlack.ro"><title lang="ro">O lume dispărută</title>
-    <title lang="xx">The Lost World</title>
-    <desc lang="ro">La sfârșitul secolului al XX-lea, un grup de profesori visători și aventurieri pleacă în căutarea unei lumi izolate, care se află departe de ochii profanilor, doar pentru cei care cred în existența ei.</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Aventuri</category>
-    <category lang="ro">SF</category>
-    <episode-num system="onscreen">S2 E9</episode-num>
-    </programme><programme start="20261002053000 +0000" stop="20261002060959 +0000" channel="AXNBlack.ro"><title lang="ro">Stargate SG-1</title>
-    <desc lang="ro">In incercarea lor de a salva Pamantul de la o invazie extraterestra, fortele speciale conduse de colonelul Jack O’Neil carora li se alatura egiptologul Danies Jackson exploreaza prin intermediul Portii Galactice alte civilizatii din Univers.</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Aventuri</category>
-    <category lang="ro">SF</category>
-    <episode-num system="onscreen">S5 E9</episode-num>
-    </programme><programme start="20261002061000 +0000" stop="20261002065459 +0000" channel="AXNBlack.ro"><title lang="ro">Stargate SG-1</title>
-    <desc lang="ro">In incercarea lor de a salva Pamantul de la o invazie extraterestra, fortele speciale conduse de colonelul Jack O’Neil carora li se alatura egiptologul Danies Jackson exploreaza prin intermediul Portii Galactice alte civilizatii din Univers.</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Aventuri</category>
-    <category lang="ro">SF</category>
-    <episode-num system="onscreen">S5 E10</episode-num>
-    </programme><programme start="20261002065500 +0000" stop="20261002074959 +0000" channel="AXNBlack.ro"><title lang="ro">Vânătoarea de comori</title>
+  </programme><programme start="20261002065500 +0000" stop="20261002074959 +0000" channel="AXNBlack.ro"><title lang="ro">Vânătoarea de comori</title>
     <title lang="xx">Relic Hunter</title>
     <desc lang="ro">O profesoară de istorie este implicată într-o serie de aventuri în timpul expediţiilor pe care le organizează în căutarea de arteface şi antichităţi. Este ajutată în căutarile ei de asistentul Nigel Bailey, împreuna cu care merge până în pânzele albe.</desc>
     <category lang="ro">Serial</category>
@@ -5804,32 +5576,6 @@
     <category lang="ro">Dramă</category>
     <category lang="ro">Western</category>
     <episode-num system="onscreen">S1 E23</episode-num>
-    </programme><programme start="20261002030500 +0000" stop="20261002043459 +0000" channel="AXNWhite.ro"><title lang="ro">Păstrează speranța</title>
-    <title lang="xx">Saving Hope</title>
-    <desc lang="ro">Atunci cand Charie Harris, chirurgul sef al Spitalului Hope-Zion din Toronto are un accident de masina si ajunge in coma, acesta lasa in urma un spital in haos si o logodnica (Alex Reid), tot chirurg, in stare de soc.</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Dramă</category>
-    <category lang="ro">Fantastic</category>
-    <episode-num system="onscreen">S5 E14</episode-num>
-    </programme><programme start="20261002043500 +0000" stop="20261002051959 +0000" channel="AXNWhite.ro"><title lang="ro">Spitalul de Urgenţă</title>
-    <title lang="xx">ER</title>
-    <desc lang="ro">E.R. este un serial de televiziune dedicat medicilor, o drama medicala despre viata oamenilor din sectia de urgenta a unui spital din Chicago. Este viata celor care zilnic salveaza vieti omenesti in conditii care mai de care extreme si imposibile.</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Dramă</category>
-    <episode-num system="onscreen">S6 E5</episode-num>
-    </programme><programme start="20261002052000 +0000" stop="20261002060459 +0000" channel="AXNWhite.ro"><title lang="ro">Spitalul de Urgenţă</title>
-    <title lang="xx">ER</title>
-    <desc lang="ro">E.R. este un serial de televiziune dedicat medicilor, o drama medicala despre viata oamenilor din sectia de urgenta a unui spital din Chicago. Este viata celor care zilnic salveaza vieti omenesti in conditii care mai de care extreme si imposibile.</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Dramă</category>
-    <episode-num system="onscreen">S6 E6</episode-num>
-    </programme><programme start="20261002060500 +0000" stop="20261002064959 +0000" channel="AXNWhite.ro"><title lang="ro">Ferma Heartland</title>
-    <title lang="xx">Heartland</title>
-    <desc lang="ro">Serialul prezintă viața surorilor Amy și Lou Fleming și a bunicului lor, Jack Bartlett, care trăiesc la o fermă de cai. Mama celor două fete a fost ucisă într-un accident, așa că Amy și Lou continuă visul mamei lor îngrijind caii abuzați și neglijați.</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Dramă</category>
-    <category lang="ro">Familie</category>
-    <episode-num system="onscreen">S4 E13</episode-num>
     </programme><programme start="20261002065000 +0000" stop="20261002074459 +0000" channel="AXNWhite.ro"><title lang="ro">Ferma Heartland</title>
     <title lang="xx">Heartland</title>
     <desc lang="ro">Serialul prezintă viața surorilor Amy și Lou Fleming și a bunicului lor, Jack Bartlett, care trăiesc la o fermă de cai. Mama celor două fete a fost ucisă într-un accident, așa că Amy și Lou continuă visul mamei lor îngrijind caii abuzați și neglijați.</desc>
@@ -6365,10 +6111,7 @@
     <category lang="ro">Dramă</category>
     <category lang="ro">Mister</category>
     <episode-num system="onscreen">S2 E1</episode-num>
-    </programme><programme start="20261002031000 +0000" stop="20261002045959 +0000" channel="B1TV.ro"><title lang="ro">Doctorul</title>
-    <desc lang="ro">cu Tudor Mușat.</desc>
-    <category lang="ro">Diverse</category>
-  </programme><programme start="20261002050000 +0000" stop="20261002085959 +0000" channel="B1TV.ro"><title lang="ro">Bună dimineața, România!</title>
+    </programme><programme start="20261002050000 +0000" stop="20261002085959 +0000" channel="B1TV.ro"><title lang="ro">Bună dimineața, România!</title>
     <category lang="ro">Ştiri</category>
   </programme><programme start="20261002090000 +0000" stop="20261002115959 +0000" channel="B1TV.ro"><title lang="ro">Talk B1</title>
     <desc lang="ro">Emisiune de analiză politică și socială, în cadrul căreia sunt dezbătute cele mai importante subiecte ale momentului.</desc>
@@ -6487,16 +6230,6 @@
     <category lang="ro">Diverse</category>
     </programme><programme start="20261005034500 +0000" stop="20261005035959 +0000" channel="B1TV.ro"><title lang="ro">Doctorul</title>
     <category lang="ro">Diverse</category>
-  </programme><programme start="20261002040000 +0000" stop="20261002045959 +0000" channel="BBCEarth.ro"><title lang="ro">Unde se află oamenii sălbatici cu Ben Fogle</title>
-    <category lang="ro">Documentar</category>
-    <episode-num system="onscreen">S2 E3</episode-num>
-  </programme><programme start="20261002050000 +0000" stop="20261002055959 +0000" channel="BBCEarth.ro"><title lang="ro">Sub zero grade</title>
-    <desc lang="ro">Locuitorii Alaskăi trebuie să se asigure că sunt pregătiți să reziste frigului extrem care îi așteaptă la sosirea iernii.</desc>
-    <category lang="ro">Documentar</category>
-    <episode-num system="onscreen">S6 E19</episode-num>
-  </programme><programme start="20261002060000 +0000" stop="20261002070459 +0000" channel="BBCEarth.ro"><title lang="ro">James Webb: Telescopul spațial de 10 miliarde de dolari</title>
-    <category lang="ro">Documentar</category>
-    <episode-num system="onscreen">S1 E1</episode-num>
   </programme><programme start="20261002070500 +0000" stop="20261002081959 +0000" channel="BBCEarth.ro"><title lang="ro">Asia</title>
     <category lang="ro">Documentar</category>
     <episode-num system="onscreen">S1 E4</episode-num>
@@ -6705,83 +6438,7 @@
   </programme><programme start="20261005030000 +0000" stop="20261005035959 +0000" channel="BBCEarth.ro"><title lang="ro">Ben Fogle: Întoarcere în sălbăticie</title>
     <category lang="ro">Documentar</category>
     <episode-num system="onscreen">S4 E5</episode-num>
-  </programme><programme start="20261002042500 +0000" stop="20261002043959 +0000" channel="CartoonNetwork.ro"><title lang="ro">Uimitoarea lume a lui Gumball</title>
-    <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="ro">În Uimitoarea lume a lui Gumball personajele sunt obiecte sau animale. Gumball este personajul principal care face orice pentru a se distra alaturi de Darwin (pestele sau caruia i-au crescut picioare) si Anais (sora sa mai mica).</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Animaţie</category>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Familie</category>
-    <episode-num system="onscreen">E1</episode-num>
-    </programme><programme start="20261002044000 +0000" stop="20261002045459 +0000" channel="CartoonNetwork.ro"><title lang="ro">Uimitoarea lume a lui Gumball</title>
-    <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="ro">În Uimitoarea lume a lui Gumball personajele sunt obiecte sau animale. Gumball este personajul principal care face orice pentru a se distra alaturi de Darwin (pestele sau caruia i-au crescut picioare) si Anais (sora sa mai mica).</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Animaţie</category>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Familie</category>
-    <episode-num system="onscreen">E1</episode-num>
-    </programme><programme start="20261002045500 +0000" stop="20261002050459 +0000" channel="CartoonNetwork.ro"><title lang="ro">Minunata și năstrușnica lume a lui Gumball</title>
-    <category lang="ro">Serial</category>
-    <episode-num system="onscreen">E1</episode-num>
-  </programme><programme start="20261002050500 +0000" stop="20261002052459 +0000" channel="CartoonNetwork.ro"><title lang="ro">Minunata și năstrușnica lume a lui Gumball</title>
-    <category lang="ro">Serial</category>
-    <episode-num system="onscreen">E1</episode-num>
-  </programme><programme start="20261002052500 +0000" stop="20261002053459 +0000" channel="CartoonNetwork.ro"><title lang="ro">Uimitoarea lume a lui Gumball</title>
-    <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="ro">În Uimitoarea lume a lui Gumball personajele sunt obiecte sau animale. Gumball este personajul principal care face orice pentru a se distra alaturi de Darwin (pestele sau caruia i-au crescut picioare) si Anais (sora sa mai mica).</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Animaţie</category>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Familie</category>
-    <episode-num system="onscreen">E2</episode-num>
-    </programme><programme start="20261002053500 +0000" stop="20261002055459 +0000" channel="CartoonNetwork.ro"><title lang="ro">Uimitoarea lume a lui Gumball</title>
-    <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="ro">În Uimitoarea lume a lui Gumball personajele sunt obiecte sau animale. Gumball este personajul principal care face orice pentru a se distra alaturi de Darwin (pestele sau caruia i-au crescut picioare) si Anais (sora sa mai mica).</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Animaţie</category>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Familie</category>
-    <episode-num system="onscreen">E2</episode-num>
-    </programme><programme start="20261002055500 +0000" stop="20261002060459 +0000" channel="CartoonNetwork.ro"><title lang="ro">Uimitoarea lume a lui Gumball</title>
-    <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="ro">În Uimitoarea lume a lui Gumball personajele sunt obiecte sau animale. Gumball este personajul principal care face orice pentru a se distra alaturi de Darwin (pestele sau caruia i-au crescut picioare) si Anais (sora sa mai mica).</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Animaţie</category>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Familie</category>
-    <episode-num system="onscreen">E2</episode-num>
-    </programme><programme start="20261002060500 +0000" stop="20261002061959 +0000" channel="CartoonNetwork.ro"><title lang="ro">Uimitoarea lume a lui Gumball</title>
-    <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="ro">În Uimitoarea lume a lui Gumball personajele sunt obiecte sau animale. Gumball este personajul principal care face orice pentru a se distra alaturi de Darwin (pestele sau caruia i-au crescut picioare) si Anais (sora sa mai mica).</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Animaţie</category>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Familie</category>
-    <episode-num system="onscreen">E2</episode-num>
-    </programme><programme start="20261002062000 +0000" stop="20261002063459 +0000" channel="CartoonNetwork.ro"><title lang="ro">Minunata și năstrușnica lume a lui Gumball</title>
-    <category lang="ro">Serial</category>
-    <episode-num system="onscreen">E1</episode-num>
-  </programme><programme start="20261002063500 +0000" stop="20261002064959 +0000" channel="CartoonNetwork.ro"><title lang="ro">Minunata și năstrușnica lume a lui Gumball</title>
-    <category lang="ro">Serial</category>
-    <episode-num system="onscreen">E1</episode-num>
-  </programme><programme start="20261002065000 +0000" stop="20261002065959 +0000" channel="CartoonNetwork.ro"><title lang="ro">Haideți tineri titani!</title>
-    <title lang="xx">Teen Titans Go!</title>
-    <desc lang="ro">Super-eroii colegi de cameră Robin, Cyborg, Starfire, Raven şi Beast Boy adoră să salveze mereu situaţia, dar ce se intâmplă în vieţile lor când încheie lupta cu răufăcătorii?</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Animaţie</category>
-    <category lang="ro">Comedie</category>
-    <episode-num system="onscreen">E7</episode-num>
-    </programme><programme start="20261002070000 +0000" stop="20261002071959 +0000" channel="CartoonNetwork.ro"><title lang="ro">Haideți tineri titani!</title>
-    <title lang="xx">Teen Titans Go!</title>
-    <desc lang="ro">Super-eroii colegi de cameră Robin, Cyborg, Starfire, Raven şi Beast Boy adoră să salveze mereu situaţia, dar ce se intâmplă în vieţile lor când încheie lupta cu răufăcătorii?</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Animaţie</category>
-    <category lang="ro">Comedie</category>
-    <episode-num system="onscreen">E7</episode-num>
-    </programme><programme start="20261002072000 +0000" stop="20261002072459 +0000" channel="CartoonNetwork.ro"><title lang="ro">Grădiniţa Dramei Totale</title>
+  </programme><programme start="20261002072000 +0000" stop="20261002072459 +0000" channel="CartoonNetwork.ro"><title lang="ro">Grădiniţa Dramei Totale</title>
     <category lang="ro">Serial</category>
     <episode-num system="onscreen">E3</episode-num>
   </programme><programme start="20261002072500 +0000" stop="20261002074459 +0000" channel="CartoonNetwork.ro"><title lang="ro">Grădiniţa Dramei Totale</title>
@@ -8829,56 +8486,7 @@
     <category lang="ro">Comedie</category>
     <category lang="ro">Familie</category>
     <episode-num system="onscreen">E2</episode-num>
-    </programme><programme start="20261002042500 +0000" stop="20261002043459 +0000" channel="Cartoonito.ro"><title lang="ro">Dino Ranch: Exploratori pe insulă</title>
-    <category lang="ro">Serial</category>
-    <episode-num system="onscreen">E1</episode-num>
-  </programme><programme start="20261002043500 +0000" stop="20261002045459 +0000" channel="Cartoonito.ro"><title lang="ro">Dino Ranch: Exploratori pe insulă</title>
-    <category lang="ro">Serial</category>
-    <episode-num system="onscreen">E1</episode-num>
-  </programme><programme start="20261002045500 +0000" stop="20261002050459 +0000" channel="Cartoonito.ro"><title lang="ro">Mr. Bean: Seria animată</title>
-    <category lang="ro">Serial</category>
-    <episode-num system="onscreen">E4</episode-num>
-  </programme><programme start="20261002050500 +0000" stop="20261002052459 +0000" channel="Cartoonito.ro"><title lang="ro">Mr. Bean: Seria animată</title>
-    <category lang="ro">Serial</category>
-    <episode-num system="onscreen">E3</episode-num>
-  </programme><programme start="20261002052500 +0000" stop="20261002052959 +0000" channel="Cartoonito.ro"><title lang="ro">Micuții lemingi</title>
-    <category lang="ro">Serial</category>
-    <episode-num system="onscreen">E1</episode-num>
-  </programme><programme start="20261002053000 +0000" stop="20261002053459 +0000" channel="Cartoonito.ro"><title lang="ro">Micuții lemingi</title>
-    <category lang="ro">Serial</category>
-    <episode-num system="onscreen">E1</episode-num>
-  </programme><programme start="20261002053500 +0000" stop="20261002054959 +0000" channel="Cartoonito.ro"><title lang="ro">Micuții lemingi</title>
-    <category lang="ro">Serial</category>
-    <episode-num system="onscreen">E1</episode-num>
-  </programme><programme start="20261002055000 +0000" stop="20261002055959 +0000" channel="Cartoonito.ro"><title lang="ro">Batroți</title>
-    <category lang="ro">Serial</category>
-    <episode-num system="onscreen">E1</episode-num>
-  </programme><programme start="20261002060000 +0000" stop="20261002061959 +0000" channel="Cartoonito.ro"><title lang="ro">Batroți</title>
-    <category lang="ro">Serial</category>
-    <episode-num system="onscreen">E1</episode-num>
-  </programme><programme start="20261002062000 +0000" stop="20261002062959 +0000" channel="Cartoonito.ro"><title lang="ro">Ben 10</title>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Animaţie</category>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Familie</category>
-    <category lang="ro">SF</category>
-    <episode-num system="onscreen">E1</episode-num>
-    </programme><programme start="20261002063000 +0000" stop="20261002064959 +0000" channel="Cartoonito.ro"><title lang="ro">Ben 10</title>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Animaţie</category>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Familie</category>
-    <category lang="ro">SF</category>
-    <episode-num system="onscreen">E1</episode-num>
-    </programme><programme start="20261002065000 +0000" stop="20261002065959 +0000" channel="Cartoonito.ro"><title lang="ro">Mr. Bean: Seria animată</title>
-    <category lang="ro">Serial</category>
-    <episode-num system="onscreen">E4</episode-num>
-  </programme><programme start="20261002070000 +0000" stop="20261002071459 +0000" channel="Cartoonito.ro"><title lang="ro">Mr. Bean: Seria animată</title>
-    <category lang="ro">Serial</category>
-    <episode-num system="onscreen">E1</episode-num>
-  </programme><programme start="20261002071500 +0000" stop="20261002072459 +0000" channel="Cartoonito.ro"><title lang="ro">Mr. Bean: Seria animată</title>
+    </programme><programme start="20261002071500 +0000" stop="20261002072459 +0000" channel="Cartoonito.ro"><title lang="ro">Mr. Bean: Seria animată</title>
     <category lang="ro">Serial</category>
     <episode-num system="onscreen">E2</episode-num>
   </programme><programme start="20261002072500 +0000" stop="20261002074459 +0000" channel="Cartoonito.ro"><title lang="ro">Mr. Bean: Seria animată</title>
@@ -10633,11 +10241,6 @@
     <category lang="ro">Comedie</category>
     <category lang="ro">Familie</category>
     <episode-num system="onscreen">E2</episode-num>
-    </programme><programme start="20261002040000 +0000" stop="20261002052459 +0000" channel="CineMAX.ro"><title lang="ro">Olmo</title>
-    <desc lang="ro">Un adolescent de 14 ani trebuie să aibă grijă de tatăl său imobilizat la pat, care suferă de scleroză multiplă. Când vecinul său îl invită la o petrecere, lumea lui se întoarce cu susul în jos.</desc>
-    <category lang="ro">Film</category>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Dramă</category>
     </programme><programme start="20261002052500 +0000" stop="20261002074959 +0000" channel="CineMAX.ro"><title lang="ro">Codul lui Da Vinci</title>
     <title lang="xx">The Da Vinci Code</title>
     <desc lang="ro">Faimosul semiolog Profesorul Robert Langdon (Tom Hanks) este chemat într-o noapte la Muzeul Luvru unde un custode a fost ucis, lăsând în urma sa o urmă misterioasă plină de simboluri și indicii.</desc>
@@ -10898,12 +10501,6 @@
     <category lang="ro">Dramă</category>
     <category lang="ro">Romantic</category>
     <category lang="ro">Dragoste</category>
-    </programme><programme start="20261002040000 +0000" stop="20261002061459 +0000" channel="Cinemax2.ro"><title lang="ro">Valmont</title>
-    <desc lang="ro">Nimic nu rezista jocului seductiei pus la cale de marchiza de Merteuil si de vicontele de Valmont, un faimos Casanova pregatit sa seduca orice femeie frumoasa.</desc>
-    <category lang="ro">Film</category>
-    <category lang="ro">Dramă</category>
-    <category lang="ro">Romantic</category>
-    <category lang="ro">Dragoste</category>
     </programme><programme start="20261002061500 +0000" stop="20261002073959 +0000" channel="Cinemax2.ro"><title lang="ro">Luna de miere</title>
     <title lang="xx">Honeymoon</title>
     <desc lang="ro">Nimeni nu e pregătit să se trezească într-o dimineață din cauza exploziilor de afară, fără niciun plan și fără nicio perspectivă de viitor. Prins în capcana ocupației, în propriul apartament, un cuplu descopere frica, disperarea, iubirea și speranța.</desc>
@@ -11138,36 +10735,6 @@
     <category lang="ro">Film</category>
     <category lang="ro">Dramă</category>
     <category lang="ro">Fantastic</category>
-    </programme><programme start="20261002043000 +0000" stop="20261002045959 +0000" channel="ComedyCentral.ro"><title lang="ro">Hot in Cleveland</title>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Comedie</category>
-    <episode-num system="onscreen">E1</episode-num>
-    </programme><programme start="20261002050000 +0000" stop="20261002052459 +0000" channel="ComedyCentral.ro"><title lang="ro">Hot in Cleveland</title>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Comedie</category>
-    <episode-num system="onscreen">E1</episode-num>
-    </programme><programme start="20261002052500 +0000" stop="20261002055459 +0000" channel="ComedyCentral.ro"><title lang="ro">Iubirea bat-o vina</title>
-    <title lang="xx">Rules of Engagement</title>
-    <desc lang="ro">Doua cupluri si prietenul lor singuratic, fiecare aflat intr-o alta etapa a relatiei, sunt de aceeasi parere cand vine vorba de intalniri amoroase, obiligatii si casatorie.</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Comedie</category>
-    <episode-num system="onscreen">S5 E53</episode-num>
-    </programme><programme start="20261002055500 +0000" stop="20261002061959 +0000" channel="ComedyCentral.ro"><title lang="ro">Iubirea bat-o vina</title>
-    <title lang="xx">Rules of Engagement</title>
-    <desc lang="ro">Doua cupluri si prietenul lor singuratic, fiecare aflat intr-o alta etapa a relatiei, sunt de aceeasi parere cand vine vorba de intalniri amoroase, obiligatii si casatorie.</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Comedie</category>
-    <episode-num system="onscreen">S5 E54</episode-num>
-    </programme><programme start="20261002062000 +0000" stop="20261002064959 +0000" channel="ComedyCentral.ro"><title lang="ro">Orice e posibil</title>
-    <title lang="xx">Spin City</title>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Comedie</category>
-    <episode-num system="onscreen">S5 E20</episode-num>
-    </programme><programme start="20261002065000 +0000" stop="20261002071459 +0000" channel="ComedyCentral.ro"><title lang="ro">Orice e posibil</title>
-    <title lang="xx">Spin City</title>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Comedie</category>
-    <episode-num system="onscreen">S5 E21</episode-num>
     </programme><programme start="20261002071500 +0000" stop="20261002073459 +0000" channel="ComedyCentral.ro"><title lang="ro">The Exes</title>
     <category lang="ro">Serial</category>
     <category lang="ro">Comedie</category>
@@ -11932,23 +11499,7 @@
     <category lang="ro">Serial</category>
     <category lang="ro">Comedie</category>
     <episode-num system="onscreen">S3 E311</episode-num>
-    </programme><programme start="20261002040000 +0000" stop="20261002044959 +0000" channel="CrimeInvestigation.ro"><title lang="ro">După primele 48 de ore</title>
-    <desc lang="ro">În Tulsa, un tată este împușcat pe marginea drumului. La ani de la proces, mama lui își găsește curajul să-l înfrunte din nou pe ucigaș în instanță.</desc>
-    <category lang="ro">Documentar</category>
-    <episode-num system="onscreen">S15 E14</episode-num>
-  </programme><programme start="20261002045000 +0000" stop="20261002053959 +0000" channel="CrimeInvestigation.ro"><title lang="ro">La interogatoriu</title>
-    <desc lang="ro">Un orășel e zguduit când o mamă, cei doi copii ai săi și cea mai bună prietenă a ei dispar. Anchetatorii găsesc locuința plină de sânge, dar puține indicii. Autoritățile găsesc un suspect, dar au nevoie de răspunsuri de la el până nu e prea târziu.</desc>
-    <category lang="ro">Documentar</category>
-    <episode-num system="onscreen">S2 E13</episode-num>
-  </programme><programme start="20261002054000 +0000" stop="20261002062959 +0000" channel="CrimeInvestigation.ro"><title lang="ro">La interogatoriu</title>
-    <desc lang="ro">Un orășel e zguduit când o mamă, cei doi copii ai săi și cea mai bună prietenă a ei dispar. Anchetatorii găsesc locuința plină de sânge, dar puține indicii. Autoritățile găsesc un suspect, dar au nevoie de răspunsuri de la el până nu e prea târziu.</desc>
-    <category lang="ro">Documentar</category>
-    <episode-num system="onscreen">S2 E5</episode-num>
-  </programme><programme start="20261002063000 +0000" stop="20261002071459 +0000" channel="CrimeInvestigation.ro"><title lang="ro">La interogatoriu</title>
-    <desc lang="ro">Un orășel e zguduit când o mamă, cei doi copii ai săi și cea mai bună prietenă a ei dispar. Anchetatorii găsesc locuința plină de sânge, dar puține indicii. Autoritățile găsesc un suspect, dar au nevoie de răspunsuri de la el până nu e prea târziu.</desc>
-    <category lang="ro">Documentar</category>
-    <episode-num system="onscreen">S2 E7</episode-num>
-  </programme><programme start="20261002071500 +0000" stop="20261002075959 +0000" channel="CrimeInvestigation.ro"><title lang="ro">La interogatoriu</title>
+    </programme><programme start="20261002071500 +0000" stop="20261002075959 +0000" channel="CrimeInvestigation.ro"><title lang="ro">La interogatoriu</title>
     <desc lang="ro">Un orășel e zguduit când o mamă, cei doi copii ai săi și cea mai bună prietenă a ei dispar. Anchetatorii găsesc locuința plină de sânge, dar puține indicii. Autoritățile găsesc un suspect, dar au nevoie de răspunsuri de la el până nu e prea târziu.</desc>
     <category lang="ro">Documentar</category>
     <episode-num system="onscreen">S2 E16</episode-num>
@@ -12552,24 +12103,6 @@
     </programme><programme start="20261005030000 +0000" stop="20261005035959 +0000" channel="Digi24.ro"><title lang="ro">Digimatinal</title>
     <desc lang="ro">Digimatinal îți aduce primele știri ale zilei. Află știri de ultimă oră din noaptea precedentă, rezumate, evenimentele importante ale zilei, știri politice, sociale, financiare. Dacă ai ratat primele știri ale zilei, urmărește online emisiunea Digimatinal și pune-te la curent cu actualitatea. Prezentatori: Anca Dumitrescu, Cătălin Petre.</desc>
     <category lang="ro">Ştiri</category>
-    </programme><programme start="20261002042000 +0000" stop="20261002043959 +0000" channel="DigiSport1.ro"><title lang="ro">Stirile Digi Sport</title>
-    <category lang="ro">Sport</category>
-    </programme><programme start="20261002044000 +0000" stop="20261002045959 +0000" channel="DigiSport1.ro"><title lang="ro">Stirile Digi Sport</title>
-    <category lang="ro">Sport</category>
-    </programme><programme start="20261002050000 +0000" stop="20261002051959 +0000" channel="DigiSport1.ro"><title lang="ro">Stirile Digi Sport</title>
-    <category lang="ro">Sport</category>
-    </programme><programme start="20261002052000 +0000" stop="20261002053959 +0000" channel="DigiSport1.ro"><title lang="ro">Stirile Digi Sport</title>
-    <category lang="ro">Sport</category>
-    </programme><programme start="20261002054000 +0000" stop="20261002055959 +0000" channel="DigiSport1.ro"><title lang="ro">Stirile Digi Sport</title>
-    <category lang="ro">Sport</category>
-    </programme><programme start="20261002060000 +0000" stop="20261002061959 +0000" channel="DigiSport1.ro"><title lang="ro">Stirile Digi Sport</title>
-    <category lang="ro">Sport</category>
-    </programme><programme start="20261002062000 +0000" stop="20261002063959 +0000" channel="DigiSport1.ro"><title lang="ro">Stirile Digi Sport</title>
-    <category lang="ro">Sport</category>
-    </programme><programme start="20261002064000 +0000" stop="20261002065959 +0000" channel="DigiSport1.ro"><title lang="ro">Stirile Digi Sport</title>
-    <category lang="ro">Sport</category>
-    </programme><programme start="20261002070000 +0000" stop="20261002071459 +0000" channel="DigiSport1.ro"><title lang="ro">Stirile Digi Sport</title>
-    <category lang="ro">Sport</category>
     </programme><programme start="20261002071500 +0000" stop="20261002075959 +0000" channel="DigiSport1.ro"><title lang="ro">Euro Fotbal</title>
     <category lang="ro">Sport</category>
     </programme><programme start="20261002080000 +0000" stop="20261002081459 +0000" channel="DigiSport1.ro"><title lang="ro">Stirile Digi Sport</title>
@@ -12776,10 +12309,6 @@
     <category lang="ro">Sport</category>
     </programme><programme start="20261005033000 +0000" stop="20261005035959 +0000" channel="DigiSport1.ro"><title lang="ro">etapa 4 Nations League: Rezumate Grupe</title>
     <category lang="ro">Sport</category>
-    </programme><programme start="20261002040000 +0000" stop="20261002045959 +0000" channel="DigiSport2.ro"><title lang="ro">LIVE Tenis</title>
-    <category lang="ro">Sport</category>
-    </programme><programme start="20261002050000 +0000" stop="20261002065959 +0000" channel="DigiSport2.ro"><title lang="ro">LIVE Tenis</title>
-    <category lang="ro">Sport</category>
     </programme><programme start="20261002070000 +0000" stop="20261002085959 +0000" channel="DigiSport2.ro"><title lang="ro">LIVE Tenis</title>
     <category lang="ro">Sport</category>
     </programme><programme start="20261002090000 +0000" stop="20261002105959 +0000" channel="DigiSport2.ro"><title lang="ro">LIVE Tenis</title>
@@ -12865,10 +12394,6 @@
     </programme><programme start="20261005013000 +0000" stop="20261005025959 +0000" channel="DigiSport2.ro"><title lang="ro">Tenis</title>
     <category lang="ro">Sport</category>
     </programme><programme start="20261005030000 +0000" stop="20261005035959 +0000" channel="DigiSport2.ro"><title lang="ro">LIVE Tenis WTA: Beijing Ziua 7</title>
-    <category lang="ro">Sport</category>
-    </programme><programme start="20261002041500 +0000" stop="20261002065959 +0000" channel="DigiSport3.ro"><title lang="ro">LIVE Moto: Marele Premiu al Japoniei Antrenamente Moto3/ Moto2/ MotoGP</title>
-    <category lang="ro">Sport</category>
-    </programme><programme start="20261002070000 +0000" stop="20261002071459 +0000" channel="DigiSport3.ro"><title lang="ro">Digi Show</title>
     <category lang="ro">Sport</category>
     </programme><programme start="20261002071500 +0000" stop="20261002074459 +0000" channel="DigiSport3.ro"><title lang="ro">Stirile Digi Sport</title>
     <category lang="ro">Sport</category>
@@ -13058,8 +12583,6 @@
     <category lang="ro">Sport</category>
     </programme><programme start="20261005033000 +0000" stop="20261005035959 +0000" channel="DigiSport3.ro"><title lang="ro">Stirile Digi Sport</title>
     <category lang="ro">Sport</category>
-    </programme><programme start="20261002040000 +0000" stop="20261002055959 +0000" channel="DigiSport4.ro"><title lang="ro">Live Tenis</title>
-    <category lang="ro">Sport</category>
     </programme><programme start="20261002060000 +0000" stop="20261002075959 +0000" channel="DigiSport4.ro"><title lang="ro">Live Tenis</title>
     <category lang="ro">Sport</category>
     </programme><programme start="20261002080000 +0000" stop="20261002095959 +0000" channel="DigiSport4.ro"><title lang="ro">Live Tenis</title>
@@ -13140,51 +12663,6 @@
     <category lang="ro">Sport</category>
     </programme><programme start="20261005021500 +0000" stop="20261005035959 +0000" channel="DigiSport4.ro"><title lang="ro">Etapa 4 Nations League: Tara Galilor-Danemarca Grupe</title>
     <category lang="ro">Sport</category>
-    </programme><programme start="20261002043000 +0000" stop="20261002045459 +0000" channel="DisneyChannel.ro"><title lang="ro">Phineas și Ferb</title>
-    <title lang="xx">Phineas and Ferb</title>
-    <desc lang="ro">Serialul spune povestea a doi frati care, in plictiseala vacantei de vara, se gandesc sa faca diferite lucruri iesite din comun pentru a avea ce povesti prietenilor. Astfel, ajung sa sfideze legile gravitatiei.</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Animaţie</category>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Familie</category>
-    <episode-num system="onscreen">E51</episode-num>
-    </programme><programme start="20261002045500 +0000" stop="20261002051459 +0000" channel="DisneyChannel.ro"><title lang="ro">Phineas și Ferb</title>
-    <title lang="xx">Phineas and Ferb</title>
-    <desc lang="ro">Serialul spune povestea a doi frati care, in plictiseala vacantei de vara, se gandesc sa faca diferite lucruri iesite din comun pentru a avea ce povesti prietenilor. Astfel, ajung sa sfideze legile gravitatiei.</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Animaţie</category>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Familie</category>
-    <episode-num system="onscreen">E126</episode-num>
-    </programme><programme start="20261002051500 +0000" stop="20261002054459 +0000" channel="DisneyChannel.ro"><title lang="ro">Familia Green la oraș</title>
-    <title lang="xx">Big City Greens</title>
-    <desc lang="ro">Aceasta este povestea aventuroasă a lui Cricket Green, un băiat de la țară care se mută cu familia lui într-o metropolă modernă.</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Animaţie</category>
-    <category lang="ro">Aventuri</category>
-    <category lang="ro">Comedie</category>
-    <episode-num system="onscreen">E92</episode-num>
-    </programme><programme start="20261002054500 +0000" stop="20261002061459 +0000" channel="DisneyChannel.ro"><title lang="ro">Familia Green la oraș</title>
-    <title lang="xx">Big City Greens</title>
-    <desc lang="ro">Aceasta este povestea aventuroasă a lui Cricket Green, un băiat de la țară care se mută cu familia lui într-o metropolă modernă.</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Animaţie</category>
-    <category lang="ro">Aventuri</category>
-    <category lang="ro">Comedie</category>
-    <episode-num system="onscreen">E94</episode-num>
-    </programme><programme start="20261002061500 +0000" stop="20261002064459 +0000" channel="DisneyChannel.ro"><title lang="ro">Familia Green la oraș</title>
-    <title lang="xx">Big City Greens</title>
-    <desc lang="ro">Aceasta este povestea aventuroasă a lui Cricket Green, un băiat de la țară care se mută cu familia lui într-o metropolă modernă.</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Animaţie</category>
-    <category lang="ro">Aventuri</category>
-    <category lang="ro">Comedie</category>
-    <episode-num system="onscreen">E93</episode-num>
-    </programme><programme start="20261002064500 +0000" stop="20261002071459 +0000" channel="DisneyChannel.ro"><title lang="ro">Hamster &amp; Gretel</title>
-    <desc lang="ro">Gretel și animăluțul ei de companie primesc noi abilități. Acum, Kevin, fratele mare și foarte protector, trebuie să-și dea seama cum să lucreze atât cu Gretel, cât și cu hamsterul ei pentru a-și proteja orașul de pericole misterioase.</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Animaţie</category>
-    <episode-num system="onscreen">E29</episode-num>
     </programme><programme start="20261002071500 +0000" stop="20261002074459 +0000" channel="DisneyChannel.ro"><title lang="ro">Hamster &amp; Gretel</title>
     <desc lang="ro">Gretel și animăluțul ei de companie primesc noi abilități. Acum, Kevin, fratele mare și foarte protector, trebuie să-și dea seama cum să lucreze atât cu Gretel, cât și cu hamsterul ei pentru a-și proteja orașul de pericole misterioase.</desc>
     <category lang="ro">Serial</category>
@@ -14410,47 +13888,7 @@
     <category lang="ro">Animaţie</category>
     <category lang="ro">Aventuri</category>
     <episode-num system="onscreen">E103</episode-num>
-    </programme><programme start="20261002043000 +0000" stop="20261002043959 +0000" channel="DisneyJunior.ro"><title lang="ro">Blue</title>
-    <desc lang="ro">Blue e o căţeluşă blue heeler, de şase ani, care transformă viaţa familiei într-o aventură.</desc>
-    <category lang="ro">Desene animate</category>
-    <episode-num system="onscreen">E44</episode-num>
-  </programme><programme start="20261002044000 +0000" stop="20261002044959 +0000" channel="DisneyJunior.ro"><title lang="ro">Blue</title>
-    <desc lang="ro">Blue e o căţeluşă blue heeler, de şase ani, care transformă viaţa familiei într-o aventură.</desc>
-    <category lang="ro">Desene animate</category>
-    <episode-num system="onscreen">E45</episode-num>
-  </programme><programme start="20261002045000 +0000" stop="20261002045459 +0000" channel="DisneyJunior.ro"><title lang="ro">Blue</title>
-    <desc lang="ro">Blue e o căţeluşă blue heeler, de şase ani, care transformă viaţa familiei într-o aventură.</desc>
-    <category lang="ro">Desene animate</category>
-    <episode-num system="onscreen">E46</episode-num>
-  </programme><programme start="20261002045500 +0000" stop="20261002045959 +0000" channel="DisneyJunior.ro"><title lang="ro">Desene Cu Buticul Lui Minnie: Hotelul Animăluțelor</title>
-    <desc lang="ro">Decorarea pentru petrecerea lui Minnie duce la distracții neașteptate.</desc>
-    <category lang="ro">Desene animate</category>
-    <episode-num system="onscreen">E17</episode-num>
-  </programme><programme start="20261002050000 +0000" stop="20261002052959 +0000" channel="DisneyJunior.ro"><title lang="ro">Păienjenelul Marvel Și Prietenii Lui Uimitori</title>
-    <desc lang="ro">Pacostea cu mașini a Monstrului!</desc>
-    <category lang="ro">Desene animate</category>
-    <episode-num system="onscreen">E63</episode-num>
-  </programme><programme start="20261002053000 +0000" stop="20261002055959 +0000" channel="DisneyJunior.ro"><title lang="ro">Sofia Întâi: Magia Regală</title>
-    <desc lang="ro">Parada magică a Sofiei și Laylei. Dansul fermecat a lui Zane.</desc>
-    <category lang="ro">Desene animate</category>
-    <episode-num system="onscreen">E3</episode-num>
-  </programme><programme start="20261002060000 +0000" stop="20261002062959 +0000" channel="DisneyJunior.ro"><title lang="ro">Clubul Lui Mickey Mouse Plus</title>
-    <desc lang="ro">Fiți alături de Mickey, Minnie și prietenii lor în noi aventuri!</desc>
-    <category lang="ro">Desene animate</category>
-    <episode-num system="onscreen">E31</episode-num>
-  </programme><programme start="20261002063000 +0000" stop="20261002065959 +0000" channel="DisneyJunior.ro"><title lang="ro">Clubul Lui Mickey Mouse Plus</title>
-    <desc lang="ro">Minnie organizează o cină pentru Clara.</desc>
-    <category lang="ro">Desene animate</category>
-    <episode-num system="onscreen">E8</episode-num>
-  </programme><programme start="20261002070000 +0000" stop="20261002070959 +0000" channel="DisneyJunior.ro"><title lang="ro">Blue</title>
-    <desc lang="ro">În parc, Blue își face o nouă prietenă, Winnie.</desc>
-    <category lang="ro">Desene animate</category>
-    <episode-num system="onscreen">E89</episode-num>
-  </programme><programme start="20261002071000 +0000" stop="20261002071959 +0000" channel="DisneyJunior.ro"><title lang="ro">Blue</title>
-    <desc lang="ro">Brioșă vrea să poarte conul rușinii!</desc>
-    <category lang="ro">Desene animate</category>
-    <episode-num system="onscreen">E90</episode-num>
-  </programme><programme start="20261002072000 +0000" stop="20261002072959 +0000" channel="DisneyJunior.ro"><title lang="ro">Blue</title>
+    </programme><programme start="20261002072000 +0000" stop="20261002072959 +0000" channel="DisneyJunior.ro"><title lang="ro">Blue</title>
     <desc lang="ro">Blue e maestra de manej în jocul de-a circul!</desc>
     <category lang="ro">Desene animate</category>
     <episode-num system="onscreen">E91</episode-num>
@@ -15377,21 +14815,7 @@
     <desc lang="ro">Sofia și Rapunzel se luptă cu Zandrya. Cursa Zburătoare.</desc>
     <category lang="ro">Desene animate</category>
     <episode-num system="onscreen">E9</episode-num>
-  </programme><programme start="20261002035500 +0000" stop="20261002053959 +0000" channel="DivaUniversal.ro"><title lang="ro">Aventuri cu dragoste și păsări</title>
-    <title lang="xx">Adventures in Love &amp; Birding</title>
-    <desc lang="ro">Celeste, proaspăt divorțată, face echipă cu John pentru un concurs de observare a păsărilor, care duce la o idilă neașteptată.</desc>
-    <category lang="ro">Film</category>
-    <category lang="ro">Dramă</category>
-    <category lang="ro">Romantic</category>
-    </programme><programme start="20261002054000 +0000" stop="20261002062459 +0000" channel="DivaUniversal.ro"><title lang="ro">Sullivan's Crossing</title>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Dramă</category>
-    <episode-num system="onscreen">S4 E1</episode-num>
-    </programme><programme start="20261002062500 +0000" stop="20261002070959 +0000" channel="DivaUniversal.ro"><title lang="ro">Sullivan's Crossing</title>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Dramă</category>
-    <episode-num system="onscreen">S4 E2</episode-num>
-    </programme><programme start="20261002071000 +0000" stop="20261002080959 +0000" channel="DivaUniversal.ro"><title lang="ro">În mintea criminalului</title>
+  </programme><programme start="20261002071000 +0000" stop="20261002080959 +0000" channel="DivaUniversal.ro"><title lang="ro">În mintea criminalului</title>
     <title lang="xx">The Mentalist</title>
     <category lang="ro">Serial</category>
     <category lang="ro">Crimă</category>
@@ -15737,26 +15161,6 @@
     <category lang="ro">Film</category>
     <category lang="ro">Dramă</category>
     <category lang="ro">Romantic</category>
-    </programme><programme start="20261002035000 +0000" stop="20261002043459 +0000" channel="TimelessDizi.ro"><title lang="ro">Cercul</title>
-    <title lang="xx">Halka</title>
-    <desc lang="ro">„Cercul” este povestea a doi tineri bărbați care încearcă să afle care este identitatea lor reală, după ce o organizație criminală le-a schimbat cu bună știință destinele.</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Crimă</category>
-    <category lang="ro">Dramă</category>
-    <episode-num system="onscreen">E21</episode-num>
-    </programme><programme start="20261002043500 +0000" stop="20261002051959 +0000" channel="TimelessDizi.ro"><title lang="ro">Hold My Hand, Soldier</title>
-    <category lang="ro">Serial</category>
-    <episode-num system="onscreen">S1 E96</episode-num>
-    </programme><programme start="20261002052000 +0000" stop="20261002060459 +0000" channel="TimelessDizi.ro"><title lang="ro">Hold My Hand, Soldier</title>
-    <category lang="ro">Serial</category>
-    <episode-num system="onscreen">S1 E97</episode-num>
-    </programme><programme start="20261002060500 +0000" stop="20261002064959 +0000" channel="TimelessDizi.ro"><title lang="ro">Vinovaţi de iubire</title>
-    <title lang="xx">Masumlar Apartmani</title>
-    <desc lang="ro">O fată obişnuită se mută într-un apartament deţinut de o familie bogată, ai cărei membri au grave probleme psihologice şi obsesii. Vor fi ei capabili să se vindece unul pe altul?</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Dramă</category>
-    <episode-num system="onscreen">S1 E35</episode-num>
     </programme><programme start="20261002065000 +0000" stop="20261002073959 +0000" channel="TimelessDizi.ro"><title lang="ro">Vinovaţi de iubire</title>
     <title lang="xx">Masumlar Apartmani</title>
     <desc lang="ro">O fată obişnuită se mută într-un apartament deţinut de o familie bogată, ai cărei membri au grave probleme psihologice şi obsesii. Vor fi ei capabili să se vindece unul pe altul?</desc>
@@ -16299,25 +15703,7 @@
     <category lang="ro">Crimă</category>
     <category lang="ro">Dramă</category>
     <episode-num system="onscreen">E22</episode-num>
-    </programme><programme start="20261002042000 +0000" stop="20261002044459 +0000" channel="DocuBox.ro"><title lang="ro">Ce-i cu lumea asta ?</title>
-    <category lang="ro">Documentar</category>
-    <episode-num system="onscreen">E22</episode-num>
-  </programme><programme start="20261002044500 +0000" stop="20261002051459 +0000" channel="DocuBox.ro"><title lang="ro">Ce-i cu lumea asta ?</title>
-    <category lang="ro">Documentar</category>
-    <episode-num system="onscreen">E23</episode-num>
-  </programme><programme start="20261002051500 +0000" stop="20261002055959 +0000" channel="DocuBox.ro"><title lang="ro">Ce-i cu lumea asta ?</title>
-    <category lang="ro">Documentar</category>
-    <episode-num system="onscreen">E24</episode-num>
-  </programme><programme start="20261002060000 +0000" stop="20261002062459 +0000" channel="DocuBox.ro"><title lang="ro">Călătorie prin istorie</title>
-    <category lang="ro">Documentar</category>
-    <episode-num system="onscreen">E10</episode-num>
-  </programme><programme start="20261002062500 +0000" stop="20261002064959 +0000" channel="DocuBox.ro"><title lang="ro">Călătorie prin istorie</title>
-    <category lang="ro">Documentar</category>
-    <episode-num system="onscreen">E11</episode-num>
-  </programme><programme start="20261002065000 +0000" stop="20261002071959 +0000" channel="DocuBox.ro"><title lang="ro">Forţa naturii</title>
-    <category lang="ro">Documentar</category>
-    <episode-num system="onscreen">E2</episode-num>
-  </programme><programme start="20261002072000 +0000" stop="20261002074959 +0000" channel="DocuBox.ro"><title lang="ro">Forţa naturii</title>
+    </programme><programme start="20261002072000 +0000" stop="20261002074959 +0000" channel="DocuBox.ro"><title lang="ro">Forţa naturii</title>
     <category lang="ro">Documentar</category>
     <episode-num system="onscreen">E3</episode-num>
   </programme><programme start="20261002075000 +0000" stop="20261002081459 +0000" channel="DocuBox.ro"><title lang="ro">Coasta de nord-vest a Pacificului</title>
@@ -16683,193 +16069,6 @@
   </programme><programme start="20261005030500 +0000" stop="20261005035959 +0000" channel="DocuBox.ro"><title lang="ro">Nomazi</title>
     <category lang="ro">Documentar</category>
     <episode-num system="onscreen">E6</episode-num>
-  </programme><programme start="20261002043301 +0000" stop="20261002043546 +0000" channel="DuckTV.ro"><title lang="ro">Lumea lui Mimo</title>
-    <desc lang="ro">Panda Mimo, ursul nostru preferat şi prietenul său cel mai bun, Bobo se întâlnesc cu prietenii din serialul Copilaşul Didi. Ei pornesc în noi aventuri împreună cu prietenii lor cei noi.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002043547 +0000" stop="20261002043848 +0000" channel="DuckTV.ro"><title lang="ro">Risto Gusto</title>
-    <desc lang="ro">Haideti sa aruncam o privire in restaurantul Basil's, Yam's si Oregano's si sa vedem ce bunatati sunt preparate in bucataria Risto Gusto. Nu are rost sa va intrebati daca preparatele sunt sanatoase sau nu, pentru ca preferatii nostri ne ofera intotodeauna ce e mai bun.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002043849 +0000" stop="20261002044138 +0000" channel="DuckTV.ro"><title lang="ro">Autovehicule</title>
-    <desc lang="ro">Maşini, vapoare, baloane şi ufonauţi prind viaţă şi trăiesc în lumea lor.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002044139 +0000" stop="20261002044338 +0000" channel="DuckTV.ro"><title lang="ro">Safari</title>
-    <desc lang="ro">Scurtmetraje fantastice care prezintă caracterul şi lumea animalelor sălbatice şi domestice.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002044339 +0000" stop="20261002044553 +0000" channel="DuckTV.ro"><title lang="ro">Sunete jucăuşe</title>
-    <desc lang="ro">Din aceste scurtmetraje, copiii pot cunoaşte diferite animale şi instrumente muzicale cu sunetele caracteristice.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002044554 +0000" stop="20261002044913 +0000" channel="DuckTV.ro"><title lang="ro">La călătorie!</title>
-    <desc lang="ro">Copiii pot observa mijloacele de transport aflate în funcţiune, pot urmări mişcările, zgomotul şi părţile acestora.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002044914 +0000" stop="20261002045143 +0000" channel="DuckTV.ro"><title lang="ro">Legume</title>
-    <desc lang="ro">Legumele şi fructele din grădină prind viaţă.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002045144 +0000" stop="20261002045443 +0000" channel="DuckTV.ro"><title lang="ro">Lumea interconectată</title>
-    <desc lang="ro">Copii din lumea întreagă adoră să se joace împreună cu al?i copii. Uita?i-vă împreună cu noi în mai multe ?ări iar copii de diferite na?ionalită?i vă permit să cunoa?te?i cultura lor.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002045444 +0000" stop="20261002045643 +0000" channel="DuckTV.ro"><title lang="ro">Lola and the Numbers</title>
-    <desc lang="ro">Lola , fetita jucausa, in permanenta miscare, este intotdeauna gata sa numere impreuna cu prietenul ei Numar de la 1 la 10. Haideti sa numaram cu ei!</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002045644 +0000" stop="20261002045928 +0000" channel="DuckTV.ro"><title lang="ro">Pompierii în acţiune</title>
-    <desc lang="ro">Îţi mai aminteşti de pompierii noştri şi de aventurile lor? În această nouă serie îi aşteaptă pe Shorty, Roundy şi Tally o mulţime de experienţe noi în timp ce ajutau şi salvau pe alţii. Haideţi să vizionăm viaţa interesantă de pompier şi să învăţăm cum să ne ajutăm reciproc.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002045929 +0000" stop="20261002050228 +0000" channel="DuckTV.ro"><title lang="ro">Toby McFly</title>
-    <desc lang="ro">Toby McFly este un cățeluș pilot care ne arată cum se vede lumea privită din înălțimi. El zboară peste peisaje naturale frumoase, animale, oameni și diverse locuri interesante. După ce le admiră de pe înălțimi, coboară cu avionul și ne arată și de aproape ce a văzut din înălțimi.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002050229 +0000" stop="20261002050529 +0000" channel="DuckTV.ro"><title lang="ro">Lumea Jucăriilor</title>
-    <desc lang="ro">Intră într-o lume a jocurilor și experimentează cu noi aventuri fantastice sau exersează-ți îndemânarea și creează câteva bijuterii rafinate. Nu ai nevoie de niciun manual. Creează-ți propria poveste specială și descoperă noi posibilități de a petrece un moment împreună.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002050530 +0000" stop="20261002050904 +0000" channel="DuckTV.ro"><title lang="ro">Timpul de joacă</title>
-    <desc lang="ro">În aceste producţii, copiii se întâlnesc cu cele mai cunoscute figuri: mami, tati, copiii jucându-se pe terenul de joacă, instrumente de desenat şi jucării.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002050905 +0000" stop="20261002051134 +0000" channel="DuckTV.ro"><title lang="ro">Lumea acvatică</title>
-    <desc lang="ro">Copiii pot cunoaşte animale exotice rare.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002051135 +0000" stop="20261002051504 +0000" channel="DuckTV.ro"><title lang="ro">Viaţa la oraş</title>
-    <desc lang="ro">Copiii pot urmări pe ecran locurile, autovehiculele, oamenii şi animalele pe care le revăd zi de zi cu ocazia plimbărilor în oraş.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002051505 +0000" stop="20261002051734 +0000" channel="DuckTV.ro"><title lang="ro">Safari</title>
-    <desc lang="ro">Scurtmetraje fantastice care prezintă caracterul şi lumea animalelor sălbatice şi domestice.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002051735 +0000" stop="20261002052046 +0000" channel="DuckTV.ro"><title lang="ro">Familia Castor</title>
-    <desc lang="ro">Seria prezintă povestioarele şi mediul cotidian al unei familii de castori.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002052047 +0000" stop="20261002052301 +0000" channel="DuckTV.ro"><title lang="ro">Hubbi şi prietenii</title>
-    <desc lang="ro">Oameni provinciali pricepuţi la toate se trezesc în tot felul de aventuri, datorită stângăciei lor, încercând să repare chiar şi ceea ce nu este stricat.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002052302 +0000" stop="20261002052701 +0000" channel="DuckTV.ro"><title lang="ro">Mimo and Bobo PLUS</title>
-    <desc lang="ro">Mimo și Bobo, îndrăgiții eroi ducktv, au crescut și trăiesc viața fericită și fără griji a copiilor de grădiniță. Bucurați-vă de aventurile lor și profitați de ele pentru ca abilitățile de socializare ale copiilor dvs. să se dezvolte în timp ce se distrează.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002052702 +0000" stop="20261002053002 +0000" channel="DuckTV.ro"><title lang="ro">Margo and Felix</title>
-    <desc lang="ro">Aceasta serie ne da posibilitatea sa aruncam un ochi in viata de zi cu zi a doua foarte dragalase animale marionete. Acesti 2 prietenei au o casa incantatoare cu o gradina imprejur, in care lucreaza asa cum parintii o fac , si joaca precum micii spectatori.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002053003 +0000" stop="20261002053242 +0000" channel="DuckTV.ro"><title lang="ro">Raul</title>
-    <desc lang="ro">Un hipopotam grăsuţ şi prietenul său, pasărea.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002053243 +0000" stop="20261002053442 +0000" channel="DuckTV.ro"><title lang="ro">Tempo Giusto</title>
-    <desc lang="ro">Tempo Giusto este o introducere jucăuşa pentru înţelegerea conceptului de timp. Mereu veselă, Lola spune timpul, şi împreună cu marele povestitor Henry, ne arată ce fac copii în diferite momente ale zilei.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002053443 +0000" stop="20261002053743 +0000" channel="DuckTV.ro"><title lang="ro">DuckSchool</title>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002053744 +0000" stop="20261002054041 +0000" channel="DuckTV.ro"><title lang="ro">Hubby o să se ocupe</title>
-    <desc lang="ro">Cei trei meșteri ai noștri de acasă oriunde merg își efectuează munca sa în mod neobositor. Pe hipopotamul Hubby, pe castorul Matty și pe prietenul lor Mily nu îi sperie nici un fel de lucru. În ciuda unei neîndemânări mai mici sau mai mari de fiecare dată obțin rezultate excelente.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002054042 +0000" stop="20261002054241 +0000" channel="DuckTV.ro"><title lang="ro">Împărăţia animalelor</title>
-    <desc lang="ro">Copiii au ocazia să cunoască sub forma unor figuri înduioşătoare şi drăguţe animalele domestice şi sălbatice pe care le recunosc din grădina zoo.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002054242 +0000" stop="20261002054516 +0000" channel="DuckTV.ro"><title lang="ro">Timpul de joacă</title>
-    <desc lang="ro">În aceste producţii, copiii se întâlnesc cu cele mai cunoscute figuri: mami, tati, copiii jucându-se pe terenul de joacă, instrumente de desenat şi jucării.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002054517 +0000" stop="20261002054736 +0000" channel="DuckTV.ro"><title lang="ro">Să ne înviorăm!</title>
-    <desc lang="ro">N-ar trebui să stăm doar în fața televizorului. Dar haideți să ne punem în mișcare. Langy, Rundy și Rendy exersează imitând mișcările naturii. Exersăm cu ei și noi pentru a ne îmbunătăți abilitățile noastre de coordonare și pentru a ne întări sănătatea noastră.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002054737 +0000" stop="20261002055026 +0000" channel="DuckTV.ro"><title lang="ro">Lanţul poveştilor</title>
-    <desc lang="ro">Povestioarele simpatice şi interesante ale personajelor clasice din poveşti, zânelor, piticilor, prinţilor şi prinţeselor.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002055027 +0000" stop="20261002055312 +0000" channel="DuckTV.ro"><title lang="ro">Sport, sport, sport</title>
-    <desc lang="ro">Trei figuri cu caractere diferite - una mică, una înaltă şi una lată - concurează la diferite locuri şi competiţii sportive jucăuşe. În cadrul acestora, câştigă ba una, ba alta, de obicei în funcţie de caracterele lor - de ex. la greutăţi (ridicarea unei pietre din pădure) câştigă cea lată, puternică, la sărituri învinge cea subţirică, înaltă, iar la călărit melci, câştigătorul este cea mică, etc. La finalul fiecărui episod, câştigătorul urcă pe podium (de ex. un butuc), şi primeşte un premiu de la colegi.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002055313 +0000" stop="20261002055612 +0000" channel="DuckTV.ro"><title lang="ro">Demonstraţiile lui Albert</title>
-    <desc lang="ro">Profesorul Albert demonstrează cum este folosit un obiect uzual.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002055613 +0000" stop="20261002060012 +0000" channel="DuckTV.ro"><title lang="ro">Mimo and Bobo PLUS</title>
-    <desc lang="ro">Mimo și Bobo, îndrăgiții eroi ducktv, au crescut și trăiesc viața fericită și fără griji a copiilor de grădiniță. Bucurați-vă de aventurile lor și profitați de ele pentru ca abilitățile de socializare ale copiilor dvs. să se dezvolte în timp ce se distrează.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002060013 +0000" stop="20261002060212 +0000" channel="DuckTV.ro"><title lang="ro">Tempo Giusto</title>
-    <desc lang="ro">Tempo Giusto este o introducere jucăuşa pentru înţelegerea conceptului de timp. Mereu veselă, Lola spune timpul, şi împreună cu marele povestitor Henry, ne arată ce fac copii în diferite momente ale zilei.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002060213 +0000" stop="20261002060412 +0000" channel="DuckTV.ro"><title lang="ro">Lola and the Numbers</title>
-    <desc lang="ro">Lola , fetita jucausa, in permanenta miscare, este intotdeauna gata sa numere impreuna cu prietenul ei Numar de la 1 la 10. Haideti sa numaram cu ei!</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002060413 +0000" stop="20261002060612 +0000" channel="DuckTV.ro"><title lang="ro">Rața și prietenii săi</title>
-    <desc lang="ro">În serialul nostru Rața și prietenii săi, la toate aventurile lui Ducky participă și prietenii săi Lola, Henry și Toby. Poveștile au fost scrise cu ajutorul psihologilor pentru copii și îi ajută pe cei mici să învețe cum să se înțeleagă între ei, să argumenteze și să se adapteze când se joacă împreună, arătându-le totodată câtă bucurie și satisfacție le aduce explorarea lumii împreună cu tovarășii lor.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002060613 +0000" stop="20261002060842 +0000" channel="DuckTV.ro"><title lang="ro">Poveștile lui Henry</title>
-    <desc lang="ro">Henry, naratorul nu merge nicăieri fără cardurile lui care ilustreaza povesti. Pornind de la cardurile respective, el creeaza povestiri scurte despre viața de zi cu zi a copiilor. Treptat, cum Henry își dă seama de ordinea corectă a cardurilor, povestea expusa prinde viață.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002060843 +0000" stop="20261002061122 +0000" channel="DuckTV.ro"><title lang="ro">Să ne înviorăm!</title>
-    <desc lang="ro">N-ar trebui să stăm doar în fața televizorului. Dar haideți să ne punem în mișcare. Langy, Rundy și Rendy exersează imitând mișcările naturii. Exersăm cu ei și noi pentru a ne îmbunătăți abilitățile noastre de coordonare și pentru a ne întări sănătatea noastră.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002061123 +0000" stop="20261002061542 +0000" channel="DuckTV.ro"><title lang="ro">Sport, sport, sport</title>
-    <desc lang="ro">Trei figuri cu caractere diferite - una mică, una înaltă şi una lată - concurează la diferite locuri şi competiţii sportive jucăuşe. În cadrul acestora, câştigă ba una, ba alta, de obicei în funcţie de caracterele lor - de ex. la greutăţi (ridicarea unei pietre din pădure) câştigă cea lată, puternică, la sărituri învinge cea subţirică, înaltă, iar la călărit melci, câştigătorul este cea mică, etc. La finalul fiecărui episod, câştigătorul urcă pe podium (de ex. un butuc), şi primeşte un premiu de la colegi.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002061543 +0000" stop="20261002061742 +0000" channel="DuckTV.ro"><title lang="ro">Împărăţia animalelor</title>
-    <desc lang="ro">Copiii au ocazia să cunoască sub forma unor figuri înduioşătoare şi drăguţe animalele domestice şi sălbatice pe care le recunosc din grădina zoo.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002061743 +0000" stop="20261002062022 +0000" channel="DuckTV.ro"><title lang="ro">Să ne înviorăm!</title>
-    <desc lang="ro">N-ar trebui să stăm doar în fața televizorului. Dar haideți să ne punem în mișcare. Langy, Rundy și Rendy exersează imitând mișcările naturii. Exersăm cu ei și noi pentru a ne îmbunătăți abilitățile noastre de coordonare și pentru a ne întări sănătatea noastră.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002062023 +0000" stop="20261002062403 +0000" channel="DuckTV.ro"><title lang="ro">Familia Castor</title>
-    <desc lang="ro">Seria prezintă povestioarele şi mediul cotidian al unei familii de castori.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002062404 +0000" stop="20261002062603 +0000" channel="DuckTV.ro"><title lang="ro">Lola and the Numbers</title>
-    <desc lang="ro">Lola , fetita jucausa, in permanenta miscare, este intotdeauna gata sa numere impreuna cu prietenul ei Numar de la 1 la 10. Haideti sa numaram cu ei!</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002062604 +0000" stop="20261002063013 +0000" channel="DuckTV.ro"><title lang="ro">Demonstraţiile lui Albert</title>
-    <desc lang="ro">Profesorul Albert demonstrează cum este folosit un obiect uzual.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002063014 +0000" stop="20261002063214 +0000" channel="DuckTV.ro"><title lang="ro">Colorati-o pe Clara</title>
-    <desc lang="ro">Clara este o fată cameleonica extraordinară. Ea locuiește în junglă în casa ei mica iar atunci cand isi schimbă culoarea reda nuanta potrivita a obiectelor si creaturilor vii care au fost în mod fals colorate.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002063215 +0000" stop="20261002063414 +0000" channel="DuckTV.ro"><title lang="ro">Aventurile raței</title>
-    <desc lang="ro">În serialul nostru Aventurile raței prinde viață personajul brandului Ducktv, rățușca. Prin intermediul evenimentelor din viața sa de zi cu zi, telespectatorii noștri sub vârsta de 3 ani se pot familiariza cu programele și activitățile zilnice ale copiilor mici într-un mod plăcut și distractiv. Totodată, seria noastră dezvoltă și aptitudinile copiilor de observare și gândire.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002063415 +0000" stop="20261002063634 +0000" channel="DuckTV.ro"><title lang="ro">Sippi Sappi</title>
-    <desc lang="ro">Doi copilaşi cu patine cu rotile, Sippi şi Sappi, descoperă zona în vacanţă.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002063635 +0000" stop="20261002063934 +0000" channel="DuckTV.ro"><title lang="ro">ABC - duckBC</title>
-    <desc lang="ro">Ştiţi cine locuieşte pe masa de birou? Stilou, Creion, Ştampila, Radiera şi Pensula care se află în concurs de scriere a literelor. Până când prietenii noştri noi ne vor arăta stiluri diferite de scriere, noi facem cunoştinţă cu literele alfabetului latin.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002063935 +0000" stop="20261002064101 +0000" channel="DuckTV.ro"><title lang="ro">Elfii natură</title>
-    <desc lang="ro">Elfii natură prezintă schimbarea anotimpurilor și vă arată modul în care animalele și plantele se bucură de schimbările vremii pe tot parcursul anului.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002064102 +0000" stop="20261002064341 +0000" channel="DuckTV.ro"><title lang="ro">Sunete jucăuşe</title>
-    <desc lang="ro">Din aceste scurtmetraje, copiii pot cunoaşte diferite animale şi instrumente muzicale cu sunetele caracteristice.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002064342 +0000" stop="20261002064641 +0000" channel="DuckTV.ro"><title lang="ro">Roata colorată</title>
-    <desc lang="ro">Căţelul îşi găseşte prietenul în labirintul pădurii cu ajutorul roţii colorate.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002064642 +0000" stop="20261002064901 +0000" channel="DuckTV.ro"><title lang="ro">Miyu şi Litto</title>
-    <desc lang="ro">Cu ajutorul roţii colorate, Miyu şi Litto găsesc întotdeauna calea bună.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002064902 +0000" stop="20261002065141 +0000" channel="DuckTV.ro"><title lang="ro">Tu cu ce te ocupi?</title>
-    <desc lang="ro">Prezentarea ocupaţiilor, cu oameni şi animale, în formă jucăuşă.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002065142 +0000" stop="20261002065411 +0000" channel="DuckTV.ro"><title lang="ro">La muzeu</title>
-    <desc lang="ro">Animalele dispar din tablouri, iar clovnul le caută în muzeu.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002065412 +0000" stop="20261002065721 +0000" channel="DuckTV.ro"><title lang="ro">Roata colorată</title>
-    <desc lang="ro">Căţelul îşi găseşte prietenul în labirintul pădurii cu ajutorul roţii colorate.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002065722 +0000" stop="20261002065921 +0000" channel="DuckTV.ro"><title lang="ro">DuckSchool</title>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002065922 +0000" stop="20261002070206 +0000" channel="DuckTV.ro"><title lang="ro">Africa</title>
-    <desc lang="ro">Prezintă mediul natural al animalelor din Africa, cu toate jocurile lor.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002070207 +0000" stop="20261002070321 +0000" channel="DuckTV.ro"><title lang="ro">The Shapies</title>
-    <desc lang="ro">Protagoniștii Formulețelor prin aventurile lor ne introduc în lumea formelor. Ne arată unde se potrivesc, cu ce lucruri se aseamănă, cum se transformă dacă sunt împreună și cum crează povești întregi.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002070322 +0000" stop="20261002070623 +0000" channel="DuckTV.ro"><title lang="ro">Higher The Better</title>
-    <desc lang="ro">Doi prieteni, Kiteko, girafa prostuta si Umi mangusta jucausa, observa viata de zi cu zi a copiilor mici. De la copii, cei doi pot invata multe, despre activitatile de zi cu zi, excursiile pline de aventuri, si distractia de care au parte la joaca.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002070624 +0000" stop="20261002070843 +0000" channel="DuckTV.ro"><title lang="ro">Mimo şi Bobo</title>
-    <desc lang="ro">Mimo, simpaticul ursuleţ panda şi prietenul lui bun, Bobo, maimuţa, învaţă şi prezintă jucăuş lumea mare celor mici, prin aventurile lor.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002070844 +0000" stop="20261002071114 +0000" channel="DuckTV.ro"><title lang="ro">Poveștile lui Henry</title>
-    <desc lang="ro">Henry, naratorul nu merge nicăieri fără cardurile lui care ilustreaza povesti. Pornind de la cardurile respective, el creeaza povestiri scurte despre viața de zi cu zi a copiilor. Treptat, cum Henry își dă seama de ordinea corectă a cardurilor, povestea expusa prinde viață.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002071115 +0000" stop="20261002071354 +0000" channel="DuckTV.ro"><title lang="ro">Panni şi Fanni</title>
-    <desc lang="ro">O mână mare desenează o formă de bază pe care cele două zâne, Panni şi Fanni desenează altfel.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002071355 +0000" stop="20261002071624 +0000" channel="DuckTV.ro"><title lang="ro">Miyu şi Litto</title>
-    <desc lang="ro">Cu ajutorul roţii colorate, Miyu şi Litto găsesc întotdeauna calea bună.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002071625 +0000" stop="20261002071854 +0000" channel="DuckTV.ro"><title lang="ro">La muzeu</title>
-    <desc lang="ro">Animalele dispar din tablouri, iar clovnul le caută în muzeu.</desc>
-    <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002071855 +0000" stop="20261002072109 +0000" channel="DuckTV.ro"><title lang="ro">Imagini fascinante</title>
-    <desc lang="ro">Joc muzical colorat, cu forme geometrice rotitoare şi mişcătoare.</desc>
-    <category lang="ro">Desene animate</category>
   </programme><programme start="20261002072110 +0000" stop="20261002072440 +0000" channel="DuckTV.ro"><title lang="ro">Roata colorată</title>
     <desc lang="ro">Căţelul îşi găseşte prietenul în labirintul pădurii cu ajutorul roţii colorate.</desc>
     <category lang="ro">Desene animate</category>
@@ -21511,14 +20710,7 @@
   </programme><programme start="20261005035801 +0000" stop="20261005040025 +0000" channel="DuckTV.ro"><title lang="ro">Pomul cunoaşterii</title>
     <desc lang="ro">Micii telespectatori pot afla cunoştinţe utile într-un cadru jucăuş, de exemplu cum se clădeşte o casă sau cum colectează albinele mierea.</desc>
     <category lang="ro">Desene animate</category>
-  </programme><programme start="20261002040000 +0000" stop="20261002045459 +0000" channel="E!.ro"><title lang="ro">Botched</title>
-    <desc lang="ro">Urmăriți-i pe celebrii chirurgi plasticieni Terry Dubrow și Paul Nassif, care continuă să repare ceea ce pare imposibil de realizat, într-un nou sezon al seriei de succes Botched, care începe luna aceasta la E! În căutarea perfecțiunii, eforturile anumitor oameni de a-și îmbunătăți aspectul fizic pot să lase urme surprinzătoare - dacă nu, chiar, hidoase. În noile episoade, un actor se întâlnește cu doctorii pentru că vrea să aibă o înfățișare cât mai comică, Dr. Nassif consultă un bărbat cu trei sprâncene și medicii întâlnesc o pereche de gemeni care nu au probleme identice.</desc>
-    <category lang="ro">Divertisment</category>
-    </programme><programme start="20261002045500 +0000" stop="20261002054959 +0000" channel="E!.ro"><title lang="ro">Hollywood Medium with Tyler Henry</title>
-    <category lang="ro">Divertisment</category>
-    </programme><programme start="20261002055000 +0000" stop="20261002064459 +0000" channel="E!.ro"><title lang="ro">Hollywood Medium with Tyler Henry</title>
-    <category lang="ro">Divertisment</category>
-    </programme><programme start="20261002064500 +0000" stop="20261002073959 +0000" channel="E!.ro"><title lang="ro">Botched</title>
+  </programme><programme start="20261002064500 +0000" stop="20261002073959 +0000" channel="E!.ro"><title lang="ro">Botched</title>
     <desc lang="ro">Urmăriți-i pe celebrii chirurgi plasticieni Terry Dubrow și Paul Nassif, care continuă să repare ceea ce pare imposibil de realizat, într-un nou sezon al seriei de succes Botched, care începe luna aceasta la E! În căutarea perfecțiunii, eforturile anumitor oameni de a-și îmbunătăți aspectul fizic pot să lase urme surprinzătoare - dacă nu, chiar, hidoase. În noile episoade, un actor se întâlnește cu doctorii pentru că vrea să aibă o înfățișare cât mai comică, Dr. Nassif consultă un bărbat cu trei sprâncene și medicii întâlnesc o pereche de gemeni care nu au probleme identice.</desc>
     <category lang="ro">Divertisment</category>
     </programme><programme start="20261002074000 +0000" stop="20261002083459 +0000" channel="E!.ro"><title lang="ro">Botched</title>
@@ -21697,19 +20889,6 @@
     </programme><programme start="20261005030000 +0000" stop="20261005035959 +0000" channel="E!.ro"><title lang="ro">Botched</title>
     <desc lang="ro">Urmăriți-i pe celebrii chirurgi plasticieni Terry Dubrow și Paul Nassif, care continuă să repare ceea ce pare imposibil de realizat, într-un nou sezon al seriei de succes Botched, care începe luna aceasta la E! În căutarea perfecțiunii, eforturile anumitor oameni de a-și îmbunătăți aspectul fizic pot să lase urme surprinzătoare - dacă nu, chiar, hidoase. În noile episoade, un actor se întâlnește cu doctorii pentru că vrea să aibă o înfățișare cât mai comică, Dr. Nassif consultă un bărbat cu trei sprâncene și medicii întâlnesc o pereche de gemeni care nu au probleme identice.</desc>
     <category lang="ro">Divertisment</category>
-    </programme><programme start="20261002042000 +0000" stop="20261002051959 +0000" channel="EpicDrama.ro"><title lang="ro">Detectivul Murdoch</title>
-    <title lang="xx">Murdoch Mysteries</title>
-    <desc lang="ro">Anii 1890: William Murdoch foloseşte tehnici criminalistice pe atunci radicale, între care prelevarea de amprente şi dovezi subtile, rezolvând unele dintre cele mai cumplite cazuri de crimă din oraş.</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Crimă</category>
-    <category lang="ro">Dramă</category>
-    <episode-num system="onscreen">S13 E17</episode-num>
-    </programme><programme start="20261002052000 +0000" stop="20261002061959 +0000" channel="EpicDrama.ro"><title lang="ro">Toate viețuitoarele mari și mici</title>
-    <title lang="xx">All Creatures Great and Small</title>
-    <desc lang="ro">Remake al serialului cu același nume, realizat între '78 și '90, All Creatures Great and Small prezintă numeroasele aventuri ale angajaților unui cabinet veterinar rural din Yorkshire-ul anilor '30 și '40.</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Dramă</category>
-    <episode-num system="onscreen">S6 E5</episode-num>
     </programme><programme start="20261002062000 +0000" stop="20261002072959 +0000" channel="EpicDrama.ro"><title lang="ro">Tess</title>
     <title lang="xx">Tess of the D'Urbervilles</title>
     <desc lang="ro">Tess of the D'Urberville este adaptarea de 4 ore pentru televiziune a cărții lui Thomas Hardy cu același nume. Acesta spune povestea lui Tess Durbeyfield, o fată săracă născută la țară a cărei familie va afla că are legături nobile.</desc>
@@ -22122,11 +21301,7 @@
     <category lang="ro">Serial</category>
     <category lang="ro">Dramă</category>
     <episode-num system="onscreen">S6 E3</episode-num>
-    </programme><programme start="20261002043000 +0000" stop="20261002051459 +0000" channel="EtnoTV.ro"><title lang="ro">Cântece pentru cei dragi</title>
-    <category lang="ro">Divertisment</category>
-  </programme><programme start="20261002051500 +0000" stop="20261002052959 +0000" channel="EtnoTV.ro"><title lang="ro">Teleshopping</title>
-    <category lang="ro">Diverse</category>
-  </programme><programme start="20261002053000 +0000" stop="20261002075959 +0000" channel="EtnoTV.ro"><title lang="ro">Matinali si populari</title>
+    </programme><programme start="20261002053000 +0000" stop="20261002075959 +0000" channel="EtnoTV.ro"><title lang="ro">Matinali si populari</title>
     <category lang="ro">Divertisment</category>
   </programme><programme start="20261002080000 +0000" stop="20261002095959 +0000" channel="EtnoTV.ro"><title lang="ro">Teleshopping Bijuterii TV</title>
     <category lang="ro">Diverse</category>
@@ -22226,8 +21401,6 @@
     <category lang="ro">Divertisment</category>
   </programme><programme start="20261004170000 +0000" stop="20261005035959 +0000" channel="EtnoTV.ro"><title lang="ro">Spectacol „BUN GĂSIT, OAMENI VOIOȘI!”</title>
     <category lang="ro">Divertisment</category>
-  </programme><programme start="20261002040000 +0000" stop="20261002055959 +0000" channel="Eurosport1.ro"><title lang="ro">Snooker: Openul Shenzhen - Turul al patrulea</title>
-    <category lang="ro">Sport</category>
   </programme><programme start="20261002060000 +0000" stop="20261002085959 +0000" channel="Eurosport1.ro"><title lang="ro">Snooker: Openul Shenzhen - Sferturi de finală</title>
     <category lang="ro">Sport</category>
   </programme><programme start="20261002090000 +0000" stop="20261002094459 +0000" channel="Eurosport1.ro"><title lang="ro">Mountain Bike: Cupa Mondială - Whistler - Coborâre Feminin</title>
@@ -22327,12 +21500,6 @@
   </programme><programme start="20261005030000 +0000" stop="20261005034459 +0000" channel="Eurosport1.ro"><title lang="ro">Mountain Bike: Cupa Mondială - Lake Placid - Coborâre Feminin</title>
     <category lang="ro">Sport</category>
   </programme><programme start="20261005034500 +0000" stop="20261005042959 +0000" channel="Eurosport1.ro"><title lang="ro">Mountain Bike: Cupa Mondială - Lake Placid - Coborâre Masculin</title>
-    <category lang="ro">Sport</category>
-  </programme><programme start="20261002040000 +0000" stop="20261002045959 +0000" channel="Eurosport2.ro"><title lang="ro">Motocros : Campionatul Mondial - Turcia - MXGP, Cursa a doua</title>
-    <category lang="ro">Sport</category>
-  </programme><programme start="20261002050000 +0000" stop="20261002055959 +0000" channel="Eurosport2.ro"><title lang="ro">Mountain Bike: Cupa Mondială - Whistler - Coborâre Masculin</title>
-    <category lang="ro">Sport</category>
-  </programme><programme start="20261002060000 +0000" stop="20261002065959 +0000" channel="Eurosport2.ro"><title lang="ro">Mountain Bike: Cupa Mondială - Whistler - Coborâre Feminin</title>
     <category lang="ro">Sport</category>
   </programme><programme start="20261002070000 +0000" stop="20261002075959 +0000" channel="Eurosport2.ro"><title lang="ro">Ciclism: Montreal - Cursa de șosea</title>
     <category lang="ro">Sport</category>
@@ -22442,17 +21609,6 @@
     <category lang="ro">Sport</category>
   </programme><programme start="20261005030000 +0000" stop="20261005042959 +0000" channel="Eurosport2.ro"><title lang="ro">Snooker: Openul Shenzhen - Finala</title>
     <category lang="ro">Sport</category>
-  </programme><programme start="20261002040000 +0000" stop="20261002045959 +0000" channel="Favorit.ro"><title lang="ro">Spectacol Radio – Farse muzicale</title>
-    <category lang="ro">Muzică</category>
-  </programme><programme start="20261002050000 +0000" stop="20261002054459 +0000" channel="Favorit.ro"><title lang="ro">Favoriţii sunteţi voi</title>
-    <category lang="ro">Muzică</category>
-    </programme><programme start="20261002054500 +0000" stop="20261002055959 +0000" channel="Favorit.ro"><title lang="ro">Teleshopping</title>
-    <category lang="ro">Diverse</category>
-  </programme><programme start="20261002060000 +0000" stop="20261002065959 +0000" channel="Favorit.ro"><title lang="ro">Sărut-mâna, mamă</title>
-    <desc lang="ro">Cea dintâi iubire a oricărui om este propria mamă, iar cea de pe urmă, cea mai durabilă dragoste, este aceea a mamei pentru copilul ei. Între aceste două puncte ale iubirii se derulează emisiunea Sărut mâna, mamă.\nDovezile iubirii de mamă, multe la limita extraordinarului, sunt descoperite de echipa emisiunii aduse în faţa telespectatorilor de Fuego, un prezentator pe cât de surprinzător în ipostaza de om de televiziune, pe atât de cald, de apropiat oamenilor, de sensibil.\nExistă nenumărate motive pentru care putem mulţumi mamei. Există zeci de momente în viaţă în care simţim nevoia să facem acest lucru. Şi mai există, de asemenea, un loc în care puteţi spune tot ceea ce simţiţi faţă de persoana care v-a dăruit viaţă, arătând lumii întregi că dragostea de mamă este mai presus de orice.</desc>
-    <category lang="ro">Divertisment</category>
-    </programme><programme start="20261002070000 +0000" stop="20261002071459 +0000" channel="Favorit.ro"><title lang="ro">Teleshopping</title>
-    <category lang="ro">Diverse</category>
   </programme><programme start="20261002071500 +0000" stop="20261002085959 +0000" channel="Favorit.ro"><title lang="ro">Sărut-mâna, mamă</title>
     <desc lang="ro">Cea dintâi iubire a oricărui om este propria mamă, iar cea de pe urmă, cea mai durabilă dragoste, este aceea a mamei pentru copilul ei. Între aceste două puncte ale iubirii se derulează emisiunea Sărut mâna, mamă.\nDovezile iubirii de mamă, multe la limita extraordinarului, sunt descoperite de echipa emisiunii aduse în faţa telespectatorilor de Fuego, un prezentator pe cât de surprinzător în ipostaza de om de televiziune, pe atât de cald, de apropiat oamenilor, de sensibil.\nExistă nenumărate motive pentru care putem mulţumi mamei. Există zeci de momente în viaţă în care simţim nevoia să facem acest lucru. Şi mai există, de asemenea, un loc în care puteţi spune tot ceea ce simţiţi faţă de persoana care v-a dăruit viaţă, arătând lumii întregi că dragostea de mamă este mai presus de orice.</desc>
     <category lang="ro">Divertisment</category>
@@ -22589,14 +21745,6 @@
   </programme><programme start="20261005031500 +0000" stop="20261005035959 +0000" channel="Favorit.ro"><title lang="ro">Familia Favorit</title>
     <desc lang="ro">O emisiune de divertisment variata, pentru toate gusturile si varstele, cu personalitati, oameni valorosi, artisti indragiti si cele mai mari nume, de ieri si de azi, ale scenei romanesti. Emisiune moderata de Paul Surugiu - Fuego.</desc>
     <category lang="ro">Divertisment</category>
-    </programme><programme start="20261002041500 +0000" stop="20261002060959 +0000" channel="FilmCafe.ro"><title lang="ro">Ghețarul</title>
-    <title lang="xx">Ice</title>
-    <desc lang="ro">Suntem în anul 2020. Descoperirile făcute de profesorul Thom Archer, cercetător în domeniul protecţiei mediului, sugerează că Halo, compania care forează pe ghețarul Groenlandei, provoacă topirea acestuia.</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">SF</category>
-    <category lang="ro">Thriller</category>
-    <episode-num system="onscreen">S1 E1</episode-num>
     </programme><programme start="20261002061000 +0000" stop="20261002080459 +0000" channel="FilmCafe.ro"><title lang="ro">Ghețarul</title>
     <title lang="xx">Ice</title>
     <desc lang="ro">Suntem în anul 2020. Descoperirile făcute de profesorul Thom Archer, cercetător în domeniul protecţiei mediului, sugerează că Halo, compania care forează pe ghețarul Groenlandei, provoacă topirea acestuia.</desc>
@@ -22842,13 +21990,6 @@
     <desc lang="ro">O familie aflata in doliu dupa moartea unui fiu in Razboiul din Golf, este hotarata sa readuca bucuria in casa pentru Craciunul ce se apropie. Aceasta se intampla intr-un fel total neasteptat dupa ce il invita pentru sarbatori pe un misterios strain.</desc>
     <category lang="ro">Film</category>
     <category lang="ro">Dramă</category>
-    </programme><programme start="20261002032000 +0000" stop="20261002064459 +0000" channel="FilmMania.ro"><title lang="ro">Alexandru</title>
-    <title lang="xx">Alexander</title>
-    <desc lang="ro">Alexandru cel Mare cucerise aproape toata lumea cunoscuta in acele vremuri. Alexandru s-a folosit la maximum de armata creata de tatal sau, si a impins limitele puterii oamenilor sai, intr-un fel in care Regele Philip, nu ar fi visat sa o poata face.</desc>
-    <category lang="ro">Film</category>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Dramă</category>
-    <category lang="ro">Război</category>
     </programme><programme start="20261002064500 +0000" stop="20261002085959 +0000" channel="FilmMania.ro"><title lang="ro">Laleaua neagră</title>
     <title lang="xx">La tulipe noire</title>
     <desc lang="ro">Paris, inainte de izbucnirea revolutiei din 1789. Guillaume de Saint-Preux, om cinic, crud si egoist, profitand de atmosfera furtunoasa, dar si confuza din tara, prada nobilimea, sub numele de Laleaua Neagra.</desc>
@@ -23062,20 +22203,6 @@
     <category lang="ro">Dramă</category>
     <category lang="ro">Istoric</category>
     <category lang="ro">Război</category>
-    </programme><programme start="20261002033000 +0000" stop="20261002051459 +0000" channel="FilmBox.ro"><title lang="ro">Iadul din '63</title>
-    <title lang="xx">De hel van '63</title>
-    <desc lang="ro">Acest film se bazează pe evenimente reale din ziua fatidica din 1963, când, datorită temperaturilor scăzute și a terenului accidentat, mii de patinatori care particpau la o cursa de 200 de km au suferit degerături și leziuni șocante.</desc>
-    <category lang="ro">Film</category>
-    <category lang="ro">Dramă</category>
-    <category lang="ro">Sport</category>
-    </programme><programme start="20261002051500 +0000" stop="20261002064959 +0000" channel="FilmBox.ro"><title lang="ro">Rătăciți în Florența</title>
-    <title lang="xx">Lost in Florence</title>
-    <desc lang="ro">Eric Lombard se află la răscruce de drumuri - continuă să-și urmărească visul său de a juca fotbal profesionist sau aplică la școala de drept? În timp ce se luptă cu această decizie, Eric - alături de prietena sa - își vizitează vărul în Florența.</desc>
-    <category lang="ro">Film</category>
-    <category lang="ro">Aventuri</category>
-    <category lang="ro">Dramă</category>
-    <category lang="ro">Romantic</category>
-    <category lang="ro">Dragoste</category>
     </programme><programme start="20261002065000 +0000" stop="20261002081959 +0000" channel="FilmBox.ro"><title lang="ro">Campion pe gheață</title>
     <title lang="xx">Score: A Hockey Musical</title>
     <desc lang="ro">Pe masura ce cariera in plina ascensiune incepe sa ii afecteze relatia cu Eve, fata pentru care are sentimente puternice, tanarul hocheist Farley trebuie sa gaseasca o cale de mijloc pentru a impaca viata profesionala cu viata privata.</desc>
@@ -23336,23 +22463,6 @@
     <category lang="ro">Acţiune</category>
     <category lang="ro">Dramă</category>
     <category lang="ro">Război</category>
-    </programme><programme start="20261002033000 +0000" stop="20261002045959 +0000" channel="FilmBoxExtra.ro"><title lang="ro">Shepherd: Povestea unui câine erou</title>
-    <title lang="xx">Shepherd: The Story of a Jewish Dog</title>
-    <desc lang="ro">Kaleb, un ciobănesc german, este separat de familia sa evreiască în Berlinul celui de-al Doilea Război Mondial. El este preluat de un ofițer SS care îl antrenează să atace evrei într-un lagăr de muncă.</desc>
-    <category lang="ro">Film</category>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Familie</category>
-    <category lang="ro">Mister</category>
-    </programme><programme start="20261002050000 +0000" stop="20261002061959 +0000" channel="FilmBoxExtra.ro"><title lang="ro">Insula șoaptelor</title>
-    <title lang="xx">Whisper Island</title>
-    <desc lang="ro">Sam Dalton, o fată în vârstă de 14 ani, este hotărâtă să salveze singura casă pe care a avut-o vreodată, o ferma românească abandonată. Apelează la o speranță aparent inutilă și anume comoara din Insula Șoaptelor.</desc>
-    <category lang="ro">Film</category>
-    <category lang="ro">Aventuri</category>
-    <category lang="ro">Familie</category>
-    <category lang="ro">Fantastic</category>
-    <category lang="ro">Istoric</category>
-    <category lang="ro">Romantic</category>
-    <category lang="ro">Dragoste</category>
     </programme><programme start="20261002062000 +0000" stop="20261002074459 +0000" channel="FilmBoxExtra.ro"><title lang="ro">Connor, câinele militar</title>
     <title lang="xx">Army Dog</title>
     <desc lang="ro">Un curajos câine al armatei se întoarce în SUA și își ajută stăpânul, un veteran erou, să-și refacă relația cu fiica sa rebelă într-o excursie la camping, unde pericole neașteptate îi pândesc la fiecare pas.</desc>
@@ -23612,13 +22722,6 @@
     <category lang="ro">Dramă</category>
     </programme><programme start="20261005035000 +0000" stop="20261005042459 +0000" channel="FilmBoxExtra.ro"><title lang="ro">Night Board</title>
     <category lang="ro">Film</category>
-    </programme><programme start="20261002035959 +0000" stop="20261002043459 +0000" channel="FilmBoxFamily.ro"><title lang="ro">Închiderea programului</title>
-    <category lang="ro">Închiderea Programului</category>
-  </programme><programme start="20261002043500 +0000" stop="20261002061459 +0000" channel="FilmBoxFamily.ro"><title lang="ro">Statutul lui Brad</title>
-    <title lang="xx">Brad's Status</title>
-    <desc lang="ro">Când Brad își însoțește fiul pe coasta de est, vizita îi provoacă o criză de încredere. Brad are o carieră plină de satisfacții și o viață confortabilă, dar lucrurile nu sunt așa cum și-a imaginat că vor fi când era la colegiu.</desc>
-    <category lang="ro">Film</category>
-    <category lang="ro">Comedie</category>
     </programme><programme start="20261002061500 +0000" stop="20261002073459 +0000" channel="FilmBoxFamily.ro"><title lang="ro">Restaurantul</title>
     <title lang="xx">Trattoria</title>
     <desc lang="ro">Filmul urmareste povestea lui Sal Sartini, un Chef workaholic din San Francisco. El trebuie sa invete sa imbine pasiunea pentru gătit cu dragostea aratata celor din jur, și sa reinnoade legătura cu fiul său înainte de a risca sa piarda totul din nou.</desc>
@@ -23970,19 +23073,7 @@
     <category lang="ro">Comedie</category>
     </programme><programme start="20261005035959 +0000" stop="20261005050459 +0000" channel="FilmBoxFamily.ro"><title lang="ro">Închiderea programului</title>
     <category lang="ro">Închiderea Programului</category>
-  </programme><programme start="20261002030000 +0000" stop="20261002043459 +0000" channel="FilmboxPremium.ro"><title lang="ro">O zi în pantofii altcuiva</title>
-    <title lang="xx">The Cobbler</title>
-    <desc lang="ro">Cizmar din tată în fiu, Max Simkin descoperă în pivniţa tatălui său o maşinărie magică ce îi permite să se transforme în orice persoană, dacă încalţă pantofii acesteia.</desc>
-    <category lang="ro">Film</category>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Dramă</category>
-    <category lang="ro">Fantastic</category>
-    </programme><programme start="20261002043500 +0000" stop="20261002063959 +0000" channel="FilmboxPremium.ro"><title lang="ro">Magnifica familie Amberson</title>
-    <title lang="xx">The Magnificent Ambersons</title>
-    <desc lang="ro">Marirea si decaderea unei familii cu traditie este data de banii pe care membrii ii au si de respectul pe care il impun celor din jur. Dragostea de asemea este pusa in dificultate atunci cand si membri familiei se amesteca.</desc>
-    <category lang="ro">Film</category>
-    <category lang="ro">Dramă</category>
-    </programme><programme start="20261002064000 +0000" stop="20261002084459 +0000" channel="FilmboxPremium.ro"><title lang="ro">Marioneta</title>
+  </programme><programme start="20261002064000 +0000" stop="20261002084459 +0000" channel="FilmboxPremium.ro"><title lang="ro">Marioneta</title>
     <title lang="xx">The Ghost Writer</title>
     <desc lang="ro">Un talentat scriitor (Ewan McGregor) este angajat să scrie memoriile lui Adam Lang (Pierce Brosnan), un fost prim ministru britanic controversat. Pe parcurs însă, acesta va descoperi nişte secrete explozive care îi vor pune viaţa în pericol.</desc>
     <category lang="ro">Film</category>
@@ -24250,21 +23341,6 @@
     <category lang="ro">Acţiune</category>
     <category lang="ro">Crimă</category>
     <category lang="ro">Thriller</category>
-    </programme><programme start="20261002032000 +0000" stop="20261002043959 +0000" channel="FilmboxStars.ro"><title lang="ro">Ambasador la Berna</title>
-    <title lang="xx">A berni követ</title>
-    <desc lang="ro">16 august 1958. Doi imigranți maghiari intră în ambasada maghiară de la Berna și îl iau ostatic pe ambasador.</desc>
-    <category lang="ro">Film</category>
-    <category lang="ro">Dramă</category>
-    <category lang="ro">Istoric</category>
-    <category lang="ro">Thriller</category>
-    </programme><programme start="20261002044000 +0000" stop="20261002060459 +0000" channel="FilmboxStars.ro"><title lang="ro">Copiii spioni: Tot timpul din lume</title>
-    <title lang="xx">Spy Kids: All the Time in the World in 4D</title>
-    <desc lang="ro">La prima vedere, Marissa Cortez Wilson are tot ce isi doreste - este casatorita cu un faimos reporter de televiziune ce „vaneaza” spioni, are un copil si doi gemeni vitregi. Dar, in realitate, face fata celei mai mari provocari din viata ei.</desc>
-    <category lang="ro">Film</category>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Aventuri</category>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Familie</category>
     </programme><programme start="20261002060500 +0000" stop="20261002073959 +0000" channel="FilmboxStars.ro"><title lang="ro">Tom și Huck</title>
     <title lang="xx">Tom und Hacke</title>
     <desc lang="ro">Povestea lui Tom Sawyer și Huckleberry Finn, plasata în anii de imediat după al Doilea Război Mondial, în Germania. O poveste despre prietenie și curaj.</desc>
@@ -24527,20 +23603,6 @@
     <category lang="ro">Film</category>
     <category lang="ro">Aventuri</category>
     <category lang="ro">Familie</category>
-    </programme><programme start="20261002030000 +0000" stop="20261002043459 +0000" channel="HBO.ro"><title lang="ro">DJ Ahmet</title>
-    <desc lang="ro">Un băiat de 15 ani dintr-un sat izolat macedonean evadează în muzică, confruntând presiunea părinților, conservatorismul societății și dragostea interzisă pentru fata promisă altcuiva.</desc>
-    <category lang="ro">Film</category>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Dramă</category>
-    </programme><programme start="20261002043500 +0000" stop="20261002061459 +0000" channel="HBO.ro"><title lang="ro">Anaconda</title>
-    <title lang="xx">The Anaconda</title>
-    <desc lang="ro">Un grup de artiști de circ care se îndreaptă spre ceea ce ei cred că este o nouă locație de spectacol, rămân blocați într-o pădure tropicală după ce barca în care se aflau e atacată de un șarpe anaconda, iar căpitanul este ucis.</desc>
-    <category lang="ro">Film</category>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Aventuri</category>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Horror</category>
-    <category lang="ro">Thriller</category>
     </programme><programme start="20261002061500 +0000" stop="20261002073959 +0000" channel="HBO.ro"><title lang="ro">Ajunul Crăciunului în Țara Minunilor</title>
     <title lang="xx">The Night Before Christmas in Wonderland</title>
     <desc lang="ro">Moș Crăciun primește o scrisoare întârziată de la Prințesa Inimilor în ajunul Crăciunului. El și echipa sa devotată de reni pornesc spre Wonderland, unde sunt întâmpinați de răutăcioasa Regină a Inimilor, care urăște tot ce ține de Crăciun.</desc>
@@ -24803,15 +23865,6 @@
     <desc lang="ro">O femei planifică nunta surorii sale. În același timp, tatălui unei alte viitoare mirese face același lucru. Aceștia descoperă că ambele nunți au fost programate în aceeași locație, în aceeași zi, așa că decid să împartă locul de desfășurare.</desc>
     <category lang="ro">Film</category>
     <category lang="ro">Comedie</category>
-    </programme><programme start="20261002040000 +0000" stop="20261002055459 +0000" channel="HBO2.ro"><title lang="ro">Bun-venit în Marwen!</title>
-    <title lang="xx">Welcome to Marwen</title>
-    <desc lang="ro">Victimă a unui atac brutal, Mark Hogancamp (Steve Carell) găsește un mijloc terapeutic neobișnuit în dificilul lui proces de recuperare.</desc>
-    <category lang="ro">Film</category>
-    <category lang="ro">Animaţie</category>
-    <category lang="ro">Biografic</category>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Dramă</category>
-    <category lang="ro">Fantastic</category>
     </programme><programme start="20261002055500 +0000" stop="20261002081459 +0000" channel="HBO2.ro"><title lang="ro">Bob Dylan: A Complete Unknown</title>
     <title lang="xx">A Complete Unknown</title>
     <desc lang="ro">La festivalul din Newport, în 1965, Bob Dylan își schimbă modul de exprimare, trecând la muzică electrică și transformând rock-ul în vocea unei generații - definind unul dintre cele mai revoluționare momente din muzica secolului XX.</desc>
@@ -25090,20 +24143,6 @@
     <category lang="ro">Film</category>
     <category lang="ro">Horror</category>
     <category lang="ro">SF</category>
-    </programme><programme start="20261002040000 +0000" stop="20261002060459 +0000" channel="HBO3.ro"><title lang="ro">Cascadorul</title>
-    <title lang="xx">The Fall Guy</title>
-    <desc lang="ro">Proaspăt accidentat după un eveniment care aproape că i-a pus capăt carierei, acest erou din clasa muncitoare trebuie să dea de urma unei vedete de cinema dispărute, să rezolve o conspirație și să încerce să-și recâștige iubirea vieții sale.</desc>
-    <category lang="ro">Film</category>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Dramă</category>
-    </programme><programme start="20261002060500 +0000" stop="20261002071459 +0000" channel="HBO3.ro"><title lang="ro">Vulpea și iepurașul salvează pădurea</title>
-    <title lang="xx">Fox &amp; Hare Save the Forest</title>
-    <desc lang="ro">Într-o zi, Vulpea și iepurașul descoperă că bufnița a dispărut. Pornesc în căutarea acesteia prin pădure, dar, în schimb, dau peste un lac uriaș care nu fusese acolo înainte. Ar putea apariția lacului să aibă de-a face cu dispariția Bufniței?</desc>
-    <category lang="ro">Film</category>
-    <category lang="ro">Animaţie</category>
-    <category lang="ro">Aventuri</category>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Familie</category>
     </programme><programme start="20261002071500 +0000" stop="20261002073459 +0000" channel="HBO3.ro"><title lang="ro">Prietenii tăi</title>
     <title lang="xx">Friends</title>
     <desc lang="ro">Mai au nevoie de prezentare?! Ei sunt "Prietenii tăi”: Rachel, Monica, Phoebe, Joey, Chandler şi Ross. Şase prieteni care se luptă să supravieţuiască pe cont propriu în lumea dură a Manhatten-ului.</desc>
@@ -25481,19 +24520,7 @@
     <category lang="ro">Fantastic</category>
     <category lang="ro">Horror</category>
     <category lang="ro">Thriller</category>
-    </programme><programme start="20261002042000 +0000" stop="20261002044959 +0000" channel="HistoryChannel.ro"><title lang="ro">Securitatea graniței</title>
-    <desc lang="ro">Un tânăr designer vine din LA cu o geantă suspectă, despre care Poliția de Frontieră crede că a fost folosită de altcineva. Polițiștii de la biosecuritate din Sydney descoperă o mare cantitate de obiecte de mare risc în bagajul unui student chinez.</desc>
-    <category lang="ro">Documentar</category>
-  </programme><programme start="20261002045000 +0000" stop="20261002054459 +0000" channel="HistoryChannel.ro"><title lang="ro">Aşii amanetului</title>
-    <desc lang="ro">Porniţi la drum cu Aşii amanetului când Rick examinează o carte din secolul XIX care descrie experienţele personale ale unor sclavi negri ce au reuşit să evadeze. Va merge Rick până la capăt pentru a pune mâna pe acest crâmpei de istorie?</desc>
-    <category lang="ro">Documentar</category>
-    </programme><programme start="20261002054500 +0000" stop="20261002060959 +0000" channel="HistoryChannel.ro"><title lang="ro">Vânătorii de chilipiruri</title>
-    <desc lang="ro">Inspiraţi de o reclamă din "Ghidul unchiului Henry", Tony şi Cod decid să-şi petreacă săptămâna în căutare de pietre preţioase. Dar să ajungi la ele e mai uşor de zis şi mai greu de făcut...</desc>
-    <category lang="ro">Documentar</category>
-  </programme><programme start="20261002061000 +0000" stop="20261002063959 +0000" channel="HistoryChannel.ro"><title lang="ro">Vânătorii de chilipiruri</title>
-    <desc lang="ro">Inspiraţi de o reclamă din "Ghidul unchiului Henry", Tony şi Cod decid să-şi petreacă săptămâna în căutare de pietre preţioase. Dar să ajungi la ele e mai uşor de zis şi mai greu de făcut...</desc>
-    <category lang="ro">Documentar</category>
-  </programme><programme start="20261002064000 +0000" stop="20261002073459 +0000" channel="HistoryChannel.ro"><title lang="ro">Aşii amanetului</title>
+    </programme><programme start="20261002064000 +0000" stop="20261002073459 +0000" channel="HistoryChannel.ro"><title lang="ro">Aşii amanetului</title>
     <desc lang="ro">Porniţi la drum cu Aşii amanetului când Rick examinează o carte din secolul XIX care descrie experienţele personale ale unor sclavi negri ce au reuşit să evadeze. Va merge Rick până la capăt pentru a pune mâna pe acest crâmpei de istorie?</desc>
     <category lang="ro">Documentar</category>
     </programme><programme start="20261002073500 +0000" stop="20261002080459 +0000" channel="HistoryChannel.ro"><title lang="ro">Securitatea graniței: Australia</title>
@@ -25785,64 +24812,7 @@
   </programme><programme start="20261005035500 +0000" stop="20261005041959 +0000" channel="HistoryChannel.ro"><title lang="ro">Securitatea graniței</title>
     <desc lang="ro">Un tânăr designer vine din LA cu o geantă suspectă, despre care Poliția de Frontieră crede că a fost folosită de altcineva. Polițiștii de la biosecuritate din Sydney descoperă o mare cantitate de obiecte de mare risc în bagajul unui student chinez.</desc>
     <category lang="ro">Documentar</category>
-  </programme><programme start="20261002043000 +0000" stop="20261002045959 +0000" channel="Jimjam.ro"><title lang="ro">Clifford’s Puppy Days</title>
-    <category lang="ro">Desene animate</category>
-    <episode-num system="onscreen">S1 E17</episode-num>
-  </programme><programme start="20261002050000 +0000" stop="20261002051059 +0000" channel="Jimjam.ro"><title lang="ro">Pettson and Findus</title>
-    <title lang="xx">Pettson und Findus</title>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Animaţie</category>
-    <episode-num system="onscreen">S3 E5</episode-num>
-    </programme><programme start="20261002051100 +0000" stop="20261002052959 +0000" channel="Jimjam.ro"><title lang="ro">Pettson and Findus</title>
-    <title lang="xx">Pettson und Findus</title>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Animaţie</category>
-    <episode-num system="onscreen">S3 E6</episode-num>
-    </programme><programme start="20261002053000 +0000" stop="20261002053659 +0000" channel="Jimjam.ro"><title lang="ro">Charley Goes to School</title>
-    <category lang="ro">Desene animate</category>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme><programme start="20261002053700 +0000" stop="20261002054459 +0000" channel="Jimjam.ro"><title lang="ro">Charley Goes to School</title>
-    <category lang="ro">Desene animate</category>
-    <episode-num system="onscreen">S1 E7</episode-num>
-  </programme><programme start="20261002054500 +0000" stop="20261002055959 +0000" channel="Jimjam.ro"><title lang="ro">Charley Goes to School</title>
-    <category lang="ro">Desene animate</category>
-    <episode-num system="onscreen">S1 E8</episode-num>
-  </programme><programme start="20261002060000 +0000" stop="20261002062959 +0000" channel="Jimjam.ro"><title lang="ro">Franklin and Friends</title>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Animaţie</category>
-    <category lang="ro">Familie</category>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    </programme><programme start="20261002063000 +0000" stop="20261002064059 +0000" channel="Jimjam.ro"><title lang="ro">Thomas şi prietenii săi</title>
-    <title lang="xx">Thomas &amp; Friends</title>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Animaţie</category>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Familie</category>
-    <episode-num system="onscreen">S20 E2</episode-num>
-    </programme><programme start="20261002064100 +0000" stop="20261002065959 +0000" channel="Jimjam.ro"><title lang="ro">Thomas şi prietenii săi</title>
-    <title lang="xx">Thomas &amp; Friends</title>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Animaţie</category>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Familie</category>
-    <episode-num system="onscreen">S20 E3</episode-num>
-    </programme><programme start="20261002070000 +0000" stop="20261002070759 +0000" channel="Jimjam.ro"><title lang="ro">Robomobilul Poli</title>
-    <title lang="xx">Robocar Poli</title>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Animaţie</category>
-    <category lang="ro">Aventuri</category>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Familie</category>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    </programme><programme start="20261002070800 +0000" stop="20261002071559 +0000" channel="Jimjam.ro"><title lang="ro">Robomobilul Poli</title>
-    <title lang="xx">Robocar Poli</title>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Animaţie</category>
-    <category lang="ro">Aventuri</category>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Familie</category>
-    <episode-num system="onscreen">S1 E6</episode-num>
-    </programme><programme start="20261002071600 +0000" stop="20261002072959 +0000" channel="Jimjam.ro"><title lang="ro">Daisy și Ollie</title>
+  </programme><programme start="20261002071600 +0000" stop="20261002072959 +0000" channel="Jimjam.ro"><title lang="ro">Daisy și Ollie</title>
     <title lang="xx">Daisy &amp; Ollie</title>
     <category lang="ro">Serial</category>
     <category lang="ro">Animaţie</category>
@@ -27441,14 +26411,6 @@
     <category lang="ro">Animaţie</category>
     <category lang="ro">Familie</category>
     <episode-num system="onscreen">S1 E57</episode-num>
-    </programme><programme start="20261002040000 +0000" stop="20261002045959 +0000" channel="KanalD.ro"><title lang="ro">Fata de la fereastră</title>
-    <title lang="xx">Camdaki Kiz</title>
-    <desc lang="ro">Nalan, care pare perfectă din exterior, este abuzată grav de mama ei. Sedat, unul dintre cei mai bogați bărbați din Turcia, o cere în căsătorie. Dar nici soțul și familia ei, care par perfecți din exterior, nu sunt normali.</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Dramă</category>
-    </programme><programme start="20261002050000 +0000" stop="20261002065959 +0000" channel="KanalD.ro"><title lang="ro">Follow us</title>
-    <desc lang="ro">Show-ul prezinta informaţie proaspătă, din domenii diverse, de interes pentru publicul larg, precum şi dezvăluiri din showbiz.</desc>
-    <category lang="ro">Divertisment</category>
     </programme><programme start="20261002070000 +0000" stop="20261002085959 +0000" channel="KanalD.ro"><title lang="ro">Casa iubirii</title>
     <desc lang="ro">14 concurenţi, 7 fete şi 7 baieti, vor intra în Casa iubirii pentru a-şi găsi dragostea, iar Andreea Mantea le va fi alături pe tot parcursul show-ului, ghidându-i cu empatie, pe drumul sinuos al descoperirii de sine şi a celuilalt. La capătul acestei experienţe cu totul speciale vor exista doi câştigători, o fată şi un băiat, fiecare dintre aceştia intrand în posesia premiului de 10.000 de Euro.</desc>
     <category lang="ro">Divertisment</category>
@@ -27590,18 +26552,6 @@
     </programme><programme start="20261005024500 +0000" stop="20261005035959 +0000" channel="KanalD.ro"><title lang="ro">Fata de la fereastră</title>
     <title lang="xx">Camdaki Kiz</title>
     <desc lang="ro">Nalan, care pare perfectă din exterior, este abuzată grav de mama ei. Sedat, unul dintre cei mai bogați bărbați din Turcia, o cere în căsătorie. Dar nici soțul și familia ei, care par perfecți din exterior, nu sunt normali.</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Dramă</category>
-    </programme><programme start="20261002043000 +0000" stop="20261002045959 +0000" channel="KanalD2.ro"><title lang="ro">Teleshopping</title>
-    <category lang="ro">Diverse</category>
-  </programme><programme start="20261002050000 +0000" stop="20261002061459 +0000" channel="KanalD2.ro"><title lang="ro">In spatele valului</title>
-    <title lang="xx">Gelin</title>
-    <category lang="ro">Serial</category>
-    </programme><programme start="20261002061500 +0000" stop="20261002062959 +0000" channel="KanalD2.ro"><title lang="ro">Teleshopping</title>
-    <category lang="ro">Diverse</category>
-  </programme><programme start="20261002063000 +0000" stop="20261002065959 +0000" channel="KanalD2.ro"><title lang="ro">Iarta-ma!</title>
-    <title lang="xx">Beni Affet</title>
-    <desc lang="ro">“Iarta-ma!” infatiseaza povestile de viata pline de naturalete a trei cupluri/familii. Situatii comune sau total disfunctionale, precum si multa dragoste transpar din intrigile care vor atrage atentia privitorilor.</desc>
     <category lang="ro">Serial</category>
     <category lang="ro">Dramă</category>
     </programme><programme start="20261002070000 +0000" stop="20261002072959 +0000" channel="KanalD2.ro"><title lang="ro">Teleshopping</title>
@@ -27780,19 +26730,7 @@
     <title lang="xx">Hicran</title>
     <category lang="ro">Serial</category>
     <category lang="ro">Dramă</category>
-    </programme><programme start="20261002042500 +0000" stop="20261002051959 +0000" channel="LoveNature.ro"><title lang="ro">Cel mai bun prieten al meu este un animal</title>
-    <desc lang="ro">Explorați latura fină a diavolului tasmanian, faceți cunoștință cu o țestoasă de mare unică în felul ei și luați loc la cina familiei cu cerbul Buttons. Jucați fotbal cu taurul de 800 kg Spud și aflați cum bufnița Digger l-a mângâiat pe naturalistul Nigel în timpul tratamentului contra cancerului.</desc>
-    <category lang="ro">Serial</category>
-    <episode-num system="onscreen">S1 E3</episode-num>
-  </programme><programme start="20261002052000 +0000" stop="20261002061459 +0000" channel="LoveNature.ro"><title lang="ro">Cel mai bun prieten al meu este un animal</title>
-    <desc lang="ro">Dați din aripi împreună cu liliacul frugivor Banksi și cu femeia care este mama sa surogat, observați un emu cam răutăcios și sărbătoriți aniversarea salvării unui porc. Dați o tură prin raiul lamantinilor și învățați babuina cu Dingani, ce are o relație de înrudire unică cu amica primată Lucy.</desc>
-    <category lang="ro">Serial</category>
-    <episode-num system="onscreen">S1 E4</episode-num>
-  </programme><programme start="20261002061500 +0000" stop="20261002070959 +0000" channel="LoveNature.ro"><title lang="ro">Ocrotitorii animalelor sălbatice</title>
-    <desc lang="ro">În străfundurile parcului național Kafue, cea mai mare și mai sălbatică zonă protejată din Zambia, o echipă de biologi și veterinari din Programul pentru Carnivorele din Zambia luptă contracronometru să salveze și să protejeze prădătoarele de top din Africa.</desc>
-    <category lang="ro">Serial</category>
-    <episode-num system="onscreen">S3 E2</episode-num>
-  </programme><programme start="20261002071000 +0000" stop="20261002073459 +0000" channel="LoveNature.ro"><title lang="ro">Dresorii de șerpi din Australia: căutări dificile</title>
+    </programme><programme start="20261002071000 +0000" stop="20261002073459 +0000" channel="LoveNature.ro"><title lang="ro">Dresorii de șerpi din Australia: căutări dificile</title>
     <desc lang="ro">Hai în plin sezon de împerechere cu Mick și Adele, care salvează un Jack Russell din colții unui piton flămând. Mick încolțește un șarpe negru cu burtă roșie tare periculos într-o piscină și înfruntă șerpi bruni pe un șantier împreună cu Stu și Liv.</desc>
     <category lang="ro">Serial</category>
     <episode-num system="onscreen">S2 E1</episode-num>
@@ -28132,10 +27070,6 @@
     <desc lang="ro">O urmărim pe Anna până la bârlogul familiei Orășenilor, unde se ascund Mia și puii ei nou-născuți. Vedem primele lecții de înot ale micuților înainte de mutarea clanului la noi diguri, și ne bucurăm de o perioadă de liniște în familia vidrelor, când aceasta devine principala atracție a parcului.</desc>
     <category lang="ro">Serial</category>
     <episode-num system="onscreen">S1 E6</episode-num>
-  </programme><programme start="20261002042400 +0000" stop="20261002054359 +0000" channel="Mezzo.ro"><title lang="ro">Claudio Abbado, Berliner Philharmoniker: Brahms</title>
-    <category lang="ro">Muzică</category>
-  </programme><programme start="20261002054400 +0000" stop="20261002065959 +0000" channel="Mezzo.ro"><title lang="ro">The Sound of Cinema - Conversations with Simone Menezes</title>
-    <category lang="ro">Muzică</category>
   </programme><programme start="20261002070000 +0000" stop="20261002081359 +0000" channel="Mezzo.ro"><title lang="ro">Vivaldi: The Four Seasons in Dance - Mourad Merzouki</title>
     <category lang="ro">Muzică</category>
   </programme><programme start="20261002081400 +0000" stop="20261002093759 +0000" channel="Mezzo.ro"><title lang="ro">La Grande Danza - Aterballetto in Milan</title>
@@ -28238,45 +27172,7 @@
     <category lang="ro">Muzică</category>
   </programme><programme start="20261005031500 +0000" stop="20261005044459 +0000" channel="Mezzo.ro"><title lang="ro">Tribute to John Coltrane - Emile Parisien Quartet</title>
     <category lang="ro">Muzică</category>
-  </programme><programme start="20261002043000 +0000" stop="20261002044459 +0000" channel="MiniMax.ro"><title lang="ro">Garfield Show</title>
-    <title lang="xx">The Garfield Show</title>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Animaţie</category>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Familie</category>
-    <episode-num system="onscreen">S1 E50</episode-num>
-    </programme><programme start="20261002044500 +0000" stop="20261002045959 +0000" channel="MiniMax.ro"><title lang="ro">Garfield Show</title>
-    <title lang="xx">The Garfield Show</title>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Animaţie</category>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Familie</category>
-    <episode-num system="onscreen">S1 E51</episode-num>
-    </programme><programme start="20261002050000 +0000" stop="20261002051459 +0000" channel="MiniMax.ro"><title lang="ro">ALVINNN!!! și veverițele</title>
-    <title lang="xx">Alvinnn!!! And the Chipmunks</title>
-    <desc lang="ro">Veverițele, atât băieții, cât și fetele, sunt copii obișnuiți. Merg la școală, au sarcini și teme de casă, se ceartă ca frații și dau concerte cu casa închisă milioanelor de fani. Oh, am menționat că sunt vedete rock internaționale?</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Animaţie</category>
-    <episode-num system="onscreen">S2 E30</episode-num>
-    </programme><programme start="20261002051500 +0000" stop="20261002052959 +0000" channel="MiniMax.ro"><title lang="ro">ALVINNN!!! și veverițele</title>
-    <title lang="xx">Alvinnn!!! And the Chipmunks</title>
-    <desc lang="ro">Veverițele, atât băieții, cât și fetele, sunt copii obișnuiți. Merg la școală, au sarcini și teme de casă, se ceartă ca frații și dau concerte cu casa închisă milioanelor de fani. Oh, am menționat că sunt vedete rock internaționale?</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Animaţie</category>
-    <episode-num system="onscreen">S2 E31</episode-num>
-    </programme><programme start="20261002053000 +0000" stop="20261002054959 +0000" channel="MiniMax.ro"><title lang="ro">LEGO Friends: Următorul capitol</title>
-    <title lang="xx">Lego Friends: The Next Chapter</title>
-    <desc lang="ro">Din nou la școală! Adorabilii elevi de la liceul Heartlake încep un nou an de aventuri amuzante și provocări palpitante, care îi vor apropia și mai mult.</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Animaţie</category>
-    <episode-num system="onscreen">S3 E3</episode-num>
-    </programme><programme start="20261002055000 +0000" stop="20261002060459 +0000" channel="MiniMax.ro"><title lang="ro">LEGO Friends: Următorul capitol</title>
-    <title lang="xx">Lego Friends: The Next Chapter</title>
-    <desc lang="ro">Din nou la școală! Adorabilii elevi de la liceul Heartlake încep un nou an de aventuri amuzante și provocări palpitante, care îi vor apropia și mai mult.</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Animaţie</category>
-    <episode-num system="onscreen">S3 E4</episode-num>
-    </programme><programme start="20261002060500 +0000" stop="20261002074459 +0000" channel="MiniMax.ro"><title lang="ro">Barbie in Printesa Insulei Magice</title>
+  </programme><programme start="20261002060500 +0000" stop="20261002074459 +0000" channel="MiniMax.ro"><title lang="ro">Barbie in Printesa Insulei Magice</title>
     <title lang="xx">Barbie - As The Island Princess</title>
     <desc lang="ro">Dupa ce a naufragiat pe o insula pe cand era inca o fetita, Rosella (Barbie) creste si invata sa cante impreuna cu o incantatoare familie de animale: Sagi, un panda rosu, Azul paunul si puiul de elefant Tika.</desc>
     <category lang="ro">Film</category>
@@ -29243,16 +28139,7 @@
     <category lang="ro">Serial</category>
     <category lang="ro">Animaţie</category>
     <episode-num system="onscreen">S6 E12</episode-num>
-    </programme><programme start="20261002040000 +0000" stop="20261002045959 +0000" channel="NatGeo.ro"><title lang="ro">Viața sub zero grade</title>
-    <desc lang="ro">Pe măsură ce pământul se dezgheață, popoarele indigene din Alaska urmăresc oportunitățile de afară. Apassingok și un prieten al familiei călătoresc la tabăra lor situată la 100 km distanță ca să vâneze păsări și să caute fildeș pe plajă. Marvin Agnot și nepotul său Glyndarial White montează o plasă pentru capturarea peștelui proaspăt. Tig Strassburg și copiii săi construiesc o poartă în stil arctic pentru a împiedica intrarea urșilor în cabana familiei.</desc>
-    <category lang="ro">Documentar</category>
-  </programme><programme start="20261002050000 +0000" stop="20261002055959 +0000" channel="NatGeo.ro"><title lang="ro">Viața sub zero grade</title>
-    <desc lang="ro">Pe măsură ce pământul se dezgheață, popoarele indigene din Alaska urmăresc oportunitățile de afară. Apassingok și un prieten al familiei călătoresc la tabăra lor situată la 100 km distanță ca să vâneze păsări și să caute fildeș pe plajă. Marvin Agnot și nepotul său Glyndarial White montează o plasă pentru capturarea peștelui proaspăt. Tig Strassburg și copiii săi construiesc o poartă în stil arctic pentru a împiedica intrarea urșilor în cabana familiei.</desc>
-    <category lang="ro">Documentar</category>
-  </programme><programme start="20261002060000 +0000" stop="20261002065959 +0000" channel="NatGeo.ro"><title lang="ro">Europa văzută de sus</title>
-    <desc lang="ro">Pornim într-o călătorie spectaculoasă deasupra Italiei și descoperim dragele din Veneția, pescarii din Sicilia și o școală de iarnă pentru supermașini.</desc>
-    <category lang="ro">Documentar</category>
-  </programme><programme start="20261002070000 +0000" stop="20261002075959 +0000" channel="NatGeo.ro"><title lang="ro">Inginerie europeană</title>
+    </programme><programme start="20261002070000 +0000" stop="20261002075959 +0000" channel="NatGeo.ro"><title lang="ro">Inginerie europeană</title>
     <desc lang="ro">Într-o călătorie palpitantă printre minunile inginerești remarcabile ale Spaniei, pătrundem în culisele tehnologiilor de top ce aduc emblematica biserică Sagrada Familia din Barcelona tot mai aproape de finalizare. Descoperim secretele celei mai mari copertine de lemn din lume, aflată în Sevilla și vizităm un zgârie-nori care pare să sfideze gravitația. În final, asistăm la restaurarea minuțioasă a unui teatru roman vechi de 2.000 de ani.</desc>
     <category lang="ro">Documentar</category>
   </programme><programme start="20261002080000 +0000" stop="20261002085959 +0000" channel="NatGeo.ro"><title lang="ro">Comori pierdute ale Egiptului</title>
@@ -29465,16 +28352,7 @@
   </programme><programme start="20261005030000 +0000" stop="20261005035959 +0000" channel="NatGeo.ro"><title lang="ro">Dezastre în aer</title>
     <desc lang="ro">Serialul Dezastre în aer analizează cauzele care au provocat aceste incidente și dacă ar fi putut fi evitate. Aceste evenimente au contribuit la adoptarea de noi măsuri privind securitatea în transportul aerian, producând unele dintre cele mai importante schimbări în regulamentele aviatice. Mărturiile supraviețuitorilor și reconstituirile înfățișează povești impresionante, iar grafica computerizată și experții în domeniu explică motivele aflate la baza producerii evenimentelor fatale sau aproape fatale.</desc>
     <category lang="ro">Documentar</category>
-    </programme><programme start="20261002040000 +0000" stop="20261002045959 +0000" channel="NatGeoWild.ro"><title lang="ro">Vânătorii din sălbăticie</title>
-    <desc lang="ro">Din Europa până în India, analizăm comportamentele diferitelor tipuri de prădători, adevărați atleți ai vânătorii.</desc>
-    <category lang="ro">Documentar</category>
-  </programme><programme start="20261002050000 +0000" stop="20261002055959 +0000" channel="NatGeoWild.ro"><title lang="ro">Vânătorii din sălbăticie</title>
-    <desc lang="ro">Din Europa până în India, analizăm comportamentele diferitelor tipuri de prădători, adevărați atleți ai vânătorii.</desc>
-    <category lang="ro">Documentar</category>
-  </programme><programme start="20261002060000 +0000" stop="20261002065959 +0000" channel="NatGeoWild.ro"><title lang="ro">America de Sud</title>
-    <desc lang="ro">Află cum este să trăiești viața pe muchie de cuțit. Un impresionant lanț muntos, ce se întinde de-a lungul întregului continent sud-american, cuprinde, în unele locuri, o lume rece cu ghețari uriași, iar în altele, zone deșertice cât vezi cu ochii.</desc>
-    <category lang="ro">Documentar</category>
-  </programme><programme start="20261002070000 +0000" stop="20261002075959 +0000" channel="NatGeoWild.ro"><title lang="ro">America de Sud</title>
+    </programme><programme start="20261002070000 +0000" stop="20261002075959 +0000" channel="NatGeoWild.ro"><title lang="ro">America de Sud</title>
     <desc lang="ro">Află cum este să trăiești viața pe muchie de cuțit. Un impresionant lanț muntos, ce se întinde de-a lungul întregului continent sud-american, cuprinde, în unele locuri, o lume rece cu ghețari uriași, iar în altele, zone deșertice cât vezi cu ochii.</desc>
     <category lang="ro">Documentar</category>
   </programme><programme start="20261002080000 +0000" stop="20261002085959 +0000" channel="NatGeoWild.ro"><title lang="ro">Filipine</title>
@@ -29681,17 +28559,6 @@
   </programme><programme start="20261005030000 +0000" stop="20261005035959 +0000" channel="NatGeoWild.ro"><title lang="ro">Dragonul de Komodo</title>
     <desc lang="ro">Varanul de Komodo este cea mai mare şi mai puternică şopârlă din lume. Noi cercetări sugerează că este și mult mai inteligent decât alte şopârle.</desc>
     <category lang="ro">Documentar</category>
-  </programme><programme start="20261002040000 +0000" stop="20261002045959 +0000" channel="NationalTV.ro"><title lang="ro">Albumul Naţional</title>
-    <desc lang="ro">Singura emisiune despre folclorul românesc autentic ce poate fi urmărită la o televiziune comercială este prezentată de doi interpreţi populari extrem de cunoscuţi - Cornelia şi Lupu Rednic. Programul are, în fiecare ediţie, invitaţi la fel de populari printre iubitorii de folclor precum prezentatorii, invitaţi care vin din toate zonele ţării pentru a aduce în faţa telespectatorilor obiceiurile, tradiţiile, cântul şi portul specifice regiunii lor.\n\nAlbumul Naţional este o pledoarie pentru cântecul şi arta populară autentice, aducând telespectatorul mai aproape de valorile neamului făcându-l totodată să descopere ori să redescopere tradiţiile, istoria şi cântul autentic din zona din care el însuşi provine.</desc>
-    <category lang="ro">Muzică</category>
-    </programme><programme start="20261002050000 +0000" stop="20261002051459 +0000" channel="NationalTV.ro"><title lang="ro">Vouă</title>
-    <desc lang="ro">Pastilele Vouă încearcă, ediţie de ediţie, să menţină bunul gust al telespectatorilor în materie de umor. În scenetele emisiunii se regăsesc şi locatarul de la bloc, ţăranul dintr-un sat oarecare, familia şi capra vecinului, toţi surprinşi în situaţii cât se poate de reale. Telespectatorii se regăsesc astfel în scenetele grupului şi au impresia că pot fi oricând eroii emisiunii, graţie jocului plin de naturaleţe al celor de la Vouă.</desc>
-    <category lang="ro">Divertisment</category>
-    </programme><programme start="20261002051500 +0000" stop="20261002054459 +0000" channel="NationalTV.ro"><title lang="ro">Baronii</title>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Comedie</category>
-    </programme><programme start="20261002054500 +0000" stop="20261002055959 +0000" channel="NationalTV.ro"><title lang="ro">Teleshopping</title>
-    <category lang="ro">Diverse</category>
   </programme><programme start="20261002060000 +0000" stop="20261002081459 +0000" channel="NationalTV.ro"><title lang="ro">Miezul problemei</title>
     <desc lang="ro">Emisiunea aduce în prim-plan analiza lucidă si dezbaterea echilibrată a celor mai importante subiecte ale zilei. Fiecare ediţie abordează teme esenţiale din domenii precum politica, economia, societatea, administraţia publică şi evenimentele internaţionale cu impact direct asupra României. În platou sunt invitaţi politicieni, analişti, jurnalişti, economişti, reprezentanţi ai societăţii civile sau experţi relevanţi pentru subiectele discutate. Aceştia contribuie la o dezbatere dinamică, bazată pe argumente, date şi opinii bine fundamentate. "Miezul problemei" nu este doar o emisiune de actualitate, ci un spaţiu de dialog autentic, unde întrebările importante primesc răspunsuri directe, iar telespectatorii sunt invitaţi să înţeleagă dincolo de aparenţe.</desc>
     <category lang="ro">Talk show</category>
@@ -29947,65 +28814,6 @@
     </programme><programme start="20261005030000 +0000" stop="20261005035959 +0000" channel="NationalTV.ro"><title lang="ro">Albumul Naţional</title>
     <desc lang="ro">Singura emisiune despre folclorul românesc autentic ce poate fi urmărită la o televiziune comercială este prezentată de doi interpreţi populari extrem de cunoscuţi - Cornelia şi Lupu Rednic. Programul are, în fiecare ediţie, invitaţi la fel de populari printre iubitorii de folclor precum prezentatorii, invitaţi care vin din toate zonele ţării pentru a aduce în faţa telespectatorilor obiceiurile, tradiţiile, cântul şi portul specifice regiunii lor.\n\nAlbumul Naţional este o pledoarie pentru cântecul şi arta populară autentice, aducând telespectatorul mai aproape de valorile neamului făcându-l totodată să descopere ori să redescopere tradiţiile, istoria şi cântul autentic din zona din care el însuşi provine.</desc>
     <category lang="ro">Muzică</category>
-    </programme><programme start="20261002042000 +0000" stop="20261002044459 +0000" channel="NickJr.ro"><title lang="ro">Tim Rex în spațiu</title>
-    <title lang="xx">Tim Rex in Space</title>
-    <desc lang="ro">Tiranozaurul Tim, fratele său mai mare Toma, surioara mai mică Tia și prietena triceratops Cati rezolvă probleme copilărești găsind soluții uriașe de dinozauri, în spațiu!</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Animaţie</category>
-    <category lang="ro">Aventuri</category>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Familie</category>
-    <category lang="ro">Fantastic</category>
-    <episode-num system="onscreen">S1 E102</episode-num>
-    </programme><programme start="20261002044500 +0000" stop="20261002050959 +0000" channel="NickJr.ro"><title lang="ro">Rubble și echipa lui</title>
-    <title lang="xx">Rubble &amp; Crew</title>
-    <desc lang="ro">Rubble se mută împreună cu familia sa de cățeluși constructori în orașul din apropiere, Golful Constructorilor, unde trăiesc, se joacă și construiesc tot ce are nevoie comunitatea.</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Animaţie</category>
-    <episode-num system="onscreen">S4 E413</episode-num>
-    </programme><programme start="20261002051000 +0000" stop="20261002052959 +0000" channel="NickJr.ro"><title lang="ro">Rubble și echipa lui</title>
-    <title lang="xx">Rubble &amp; Crew</title>
-    <desc lang="ro">Rubble se mută împreună cu familia sa de cățeluși constructori în orașul din apropiere, Golful Constructorilor, unde trăiesc, se joacă și construiesc tot ce are nevoie comunitatea.</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Animaţie</category>
-    <episode-num system="onscreen">S3 E301</episode-num>
-    </programme><programme start="20261002053000 +0000" stop="20261002055459 +0000" channel="NickJr.ro"><title lang="ro">Patrula Cățelușilor</title>
-    <title lang="xx">PAW Patrol</title>
-    <desc lang="ro">Patrula Cățelușilor este o serie pentru preșcolari având în rolurile principale șase cățeluși curajoși: Chase, Marshall, Rocky, Zuma, Rubble și Skye, fiind coordonați de un băiețel în vârstă de 10 ani pe nume Ryder, priceput la dispozitive tehnice.</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Animaţie</category>
-    <episode-num system="onscreen">S11 E1112</episode-num>
-    </programme><programme start="20261002055500 +0000" stop="20261002061459 +0000" channel="NickJr.ro"><title lang="ro">Echipa Căprioarelor</title>
-    <title lang="xx">Wu Di Lu Zhan Dui</title>
-    <desc lang="ro">Patru căprioare tinere pe nume Kai, Lola, Ramsey și Bobby protejează atât orașul, cât și Pădurea Centrală de problemele cu puterile elementare ale apei, soarelui, lemnului și pământului.</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Animaţie</category>
-    <category lang="ro">Aventuri</category>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Familie</category>
-    <category lang="ro">SF</category>
-    <episode-num system="onscreen">S2 E208</episode-num>
-    </programme><programme start="20261002061500 +0000" stop="20261002063959 +0000" channel="NickJr.ro"><title lang="ro">Dora descoperă lumea</title>
-    <title lang="xx">Dora the Explorer</title>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Animaţie</category>
-    <category lang="ro">Aventuri</category>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Familie</category>
-    <category lang="ro">Fantastic</category>
-    <category lang="ro">Muzical</category>
-    <episode-num system="onscreen">S1 E108</episode-num>
-    </programme><programme start="20261002064000 +0000" stop="20261002065959 +0000" channel="NickJr.ro"><title lang="ro">Navigăm cu Santiago</title>
-    <title lang="xx">Santiago of the Seas</title>
-    <desc lang="ro">Alături de cei mai buni prieteni ai săi, Tomás și Lorelai, micul pirat de 8 ani Santi, curajos și cu o inimă mare, pornește în aventuri în Caraibe.</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Animaţie</category>
-    <category lang="ro">Aventuri</category>
-    <category lang="ro">Familie</category>
-    <category lang="ro">Fantastic</category>
-    <category lang="ro">Mister</category>
-    <episode-num system="onscreen">S1 E112</episode-num>
     </programme><programme start="20261002070000 +0000" stop="20261002072459 +0000" channel="NickJr.ro"><title lang="ro">Tim Rex în spațiu</title>
     <title lang="xx">Tim Rex in Space</title>
     <desc lang="ro">Tiranozaurul Tim, fratele său mai mare Toma, surioara mai mică Tia și prietena triceratops Cati rezolvă probleme copilărești găsind soluții uriașe de dinozauri, în spațiu!</desc>
@@ -31538,66 +30346,6 @@
     <category lang="ro">Familie</category>
     <category lang="ro">Fantastic</category>
     <episode-num system="onscreen">S2 E210</episode-num>
-    </programme><programme start="20261002042000 +0000" stop="20261002043959 +0000" channel="NickToons.ro"><title lang="ro">Tabăra Coral: Cu Spogebob Minimarin</title>
-    <title lang="xx">Kamp Koral: SpongeBob's Under Years</title>
-    <desc lang="ro">Alătură-te lui Spongebob și amicilor lui în cea mai tare tabără de vară. Aici învață să facă un foc subacvatic, cum să pescuiască meduze și cum să înoate în lacul Câhmâh. Aceasta este tabăra Coral.</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Animaţie</category>
-    <episode-num system="onscreen">S1 E109</episode-num>
-    </programme><programme start="20261002044000 +0000" stop="20261002045959 +0000" channel="NickToons.ro"><title lang="ro">Tabăra Coral: Cu Spogebob Minimarin</title>
-    <title lang="xx">Kamp Koral: SpongeBob's Under Years</title>
-    <desc lang="ro">Alătură-te lui Spongebob și amicilor lui în cea mai tare tabără de vară. Aici învață să facă un foc subacvatic, cum să pescuiască meduze și cum să înoate în lacul Câhmâh. Aceasta este tabăra Coral.</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Animaţie</category>
-    <episode-num system="onscreen">S1 E110</episode-num>
-    </programme><programme start="20261002050000 +0000" stop="20261002051459 +0000" channel="NickToons.ro"><title lang="ro">Un show cu Patrick Stea</title>
-    <title lang="xx">The Patrick Star Show</title>
-    <desc lang="ro">Cu sprijinul familiei sale, Patrick Star joacă în propriul său sitcom fals și trăsnit, împreună cu prietenii săi adorabili din Bikini Bottom.</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Animaţie</category>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Familie</category>
-    <category lang="ro">Fantastic</category>
-    <category lang="ro">Talk show</category>
-    <episode-num system="onscreen">S1 E103</episode-num>
-    </programme><programme start="20261002051500 +0000" stop="20261002055959 +0000" channel="NickToons.ro"><title lang="ro">Un show cu Patrick Stea</title>
-    <title lang="xx">The Patrick Star Show</title>
-    <desc lang="ro">Cu sprijinul familiei sale, Patrick Star joacă în propriul său sitcom fals și trăsnit, împreună cu prietenii săi adorabili din Bikini Bottom.</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Animaţie</category>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Familie</category>
-    <category lang="ro">Fantastic</category>
-    <category lang="ro">Talk show</category>
-    <episode-num system="onscreen">S3 E306</episode-num>
-    </programme><programme start="20261002060000 +0000" stop="20261002061959 +0000" channel="NickToons.ro"><title lang="ro">SpongeBob Pantaloni Pătrați</title>
-    <title lang="xx">SpongeBob SquarePants</title>
-    <desc lang="ro">SpongeBob sau Buretele Bob, este un buretel care duce o viata normala dar nelipsita de aventuri. Calamarul, Sandy veverita, Plancton, dl. Krabs, si prietenul lui cel mai bun, Patrick, sunt personajele care i se alatura in aventurile lui zilnice.</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Animaţie</category>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Familie</category>
-    <episode-num system="onscreen">S15 E315</episode-num>
-    </programme><programme start="20261002062000 +0000" stop="20261002063959 +0000" channel="NickToons.ro"><title lang="ro">SpongeBob Pantaloni Pătrați</title>
-    <title lang="xx">SpongeBob SquarePants</title>
-    <desc lang="ro">SpongeBob sau Buretele Bob, este un buretel care duce o viata normala dar nelipsita de aventuri. Calamarul, Sandy veverita, Plancton, dl. Krabs, si prietenul lui cel mai bun, Patrick, sunt personajele care i se alatura in aventurile lui zilnice.</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Animaţie</category>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Familie</category>
-    <episode-num system="onscreen">S15 E316</episode-num>
-    </programme><programme start="20261002064000 +0000" stop="20261002064459 +0000" channel="NickToons.ro"><title lang="ro">Rock, Scissors, Paper</title>
-    <category lang="ro">Serial</category>
-    <episode-num system="onscreen">S1 E106</episode-num>
-    </programme><programme start="20261002064500 +0000" stop="20261002070459 +0000" channel="NickToons.ro"><title lang="ro">Casa Loud</title>
-    <title lang="xx">The Loud House</title>
-    <desc lang="ro">Lincoln Loud este un băieţel de 11 ani care trăieşte împreună cu cele 10 surori ale lui. Cu ajutorul mâinii lui drepte, Clyde, Lincoln găseşte de fiecare dată noi metode de a rezista în fiecare zi într-o familie atât de numeroasă.</desc>
-    <category lang="ro">Serial</category>
-    <category lang="ro">Acţiune</category>
-    <category lang="ro">Animaţie</category>
-    <category lang="ro">Comedie</category>
-    <category lang="ro">Familie</category>
-    <episode-num system="onscreen">S9 E907</episode-num>
     </programme><programme start="20261002070500 +0000" stop="20261002072459 +0000" channel="NickToons.ro"><title lang="ro">Casa Loud</title>
     <title lang="xx">The Loud House</title>
     <desc lang="ro">Lincoln Loud este un băieţel de 11 ani care trăieşte împreună cu cele 10 surori ale lui. Cu ajutorul mâinii lui drepte, Clyde, Lincoln găseşte de fiecare dată noi metode de a rezista în fiecare zi într-o familie atât de numeroasă.</desc>
@@ -33019,19 +31767,7 @@
     <category lang="ro">Comedie</category>
     <category lang="ro">Familie</category>
     <episode-num system="onscreen">S7 E152</episode-num>
-    </programme><programme start="20261002043000 +0000" stop="20261002052959 +0000" channel="PrimaSport1.ro"><title lang="ro">Fotbal Show</title>
-    <category lang="ro">Sport</category>
-  </programme><programme start="20261002053000 +0000" stop="20261002054459 +0000" channel="PrimaSport1.ro"><title lang="ro">Ştirile Prima Sport</title>
-    <category lang="ro">Ştiri</category>
-  </programme><programme start="20261002054500 +0000" stop="20261002061459 +0000" channel="PrimaSport1.ro"><title lang="ro">Rezumate UEFA Nations League</title>
-    <category lang="ro">Sport</category>
-  </programme><programme start="20261002061500 +0000" stop="20261002062959 +0000" channel="PrimaSport1.ro"><title lang="ro">Ştirile Prima Sport</title>
-    <category lang="ro">Ştiri</category>
-  </programme><programme start="20261002063000 +0000" stop="20261002065959 +0000" channel="PrimaSport1.ro"><title lang="ro">Teleshopping</title>
-    <category lang="ro">Diverse</category>
-  </programme><programme start="20261002070000 +0000" stop="20261002071459 +0000" channel="PrimaSport1.ro"><title lang="ro">Ştirile Prima Sport</title>
-    <category lang="ro">Ştiri</category>
-  </programme><programme start="20261002071500 +0000" stop="20261002074459 +0000" channel="PrimaSport1.ro"><title lang="ro">Rezumate UEFA Nations League</title>
+    </programme><programme start="20261002071500 +0000" stop="20261002074459 +0000" channel="PrimaSport1.ro"><title lang="ro">Rezumate UEFA Nations League</title>
     <category lang="ro">Sport</category>
   </programme><programme start="20261002074500 +0000" stop="20261002084459 +0000" channel="PrimaSport1.ro"><title lang="ro">Fotbal Show</title>
     <category lang="ro">Sport</category>
@@ -33204,8 +31940,6 @@
   </programme><programme start="20261005033000 +0000" stop="20261005034459 +0000" channel="PrimaSport1.ro"><title lang="ro">Ştirile Prima Sport</title>
     <category lang="ro">Ştiri</category>
   </programme><programme start="20261005034500 +0000" stop="20261005041459 +0000" channel="PrimaSport1.ro"><title lang="ro">Rezumate UEFA Nations League</title>
-    <category lang="ro">Sport</category>
-  </programme><programme start="20261002041500 +0000" stop="20261002071459 +0000" channel="PrimaSport2.ro"><title lang="ro">MOTO GP: MARELE PREMIU AL JAPONIEI</title>
     <category lang="ro">Sport</category>
   </programme><programme start="20261002071500 +0000" stop="20261002072959 +0000" channel="PrimaSport2.ro"><title lang="ro">INSIDE DUCATTI</title>
     <category lang="ro">Sport</category>
